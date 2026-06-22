@@ -1,0 +1,1001 @@
+OrderID,Date,Product,Category,Region,Quantity,UnitPrice,Revenue,DiscountPercent,FinalRevenue,Profit,CustomerType,SalesChannel,PaymentMethod
+1001,2025-05-07,Keyboard,Accessories,South,9,9978,89802,13.01,78118.76,20502.76,Regular,Offline,Credit Card
+1002,2025-02-28,Tablet,Electronics,North,4,20187,80748,13.58,69782.42,7570.21,Premium,Online,UPI
+1003,2024-04-07,Tablet,Electronics,South,10,14410,144100,12.38,126260.42,35629.18,New,Online,Cash
+1004,2024-04-10,Printer,Office Equipment,West,8,3548,28384,5.16,26919.39,6801.89,New,Offline,UPI
+1005,2024-07-06,Mouse,Accessories,West,9,12077,108693,9.16,98736.72,10746.95,New,Online,Debit Card
+1006,2025-06-25,Keyboard,Accessories,South,3,19550,58650,0.48,58368.48,13269.47,New,Online,Credit Card
+1007,2024-07-03,Smartphone,Electronics,South,8,40705,325640,15.13,276370.67,82517.39,Premium,Online,Credit Card
+1008,2025-03-17,Laptop,Electronics,North,10,5887,58870,13.13,51140.37,5819.62,Regular,Online,UPI
+1009,2025-05-31,Smartwatch,Wearables,North,3,9030,27090,7.94,24939.05,6043.69,New,Offline,Credit Card
+1010,2025-08-08,Laptop,Electronics,South,6,38989,233934,17.38,193276.27,47782.86,Regular,Offline,Cash
+1011,2025-01-15,Camera,Electronics,North,5,33407,167035,14.38,143015.37,36571.59,New,Offline,Credit Card
+1012,2025-07-11,Smartwatch,Wearables,West,1,3292,3292,15.49,2782.07,818.99,New,Offline,Debit Card
+1013,2025-03-12,Smartwatch,Wearables,North,6,28641,171846,3.11,166501.59,48633.54,Premium,Online,UPI
+1014,2025-03-07,Keyboard,Accessories,West,6,47299,283794,19.52,228397.41,24651.68,Regular,Offline,Debit Card
+1015,2024-08-02,Laptop,Electronics,East,4,5981,23924,7.21,22199.08,5707.64,Regular,Offline,UPI
+1016,2024-03-18,Printer,Office Equipment,South,2,24778,49556,7.8,45690.63,4995.95,Regular,Offline,UPI
+1017,2024-11-03,Printer,Office Equipment,South,7,21555,150885,18.73,122624.24,25716.43,Regular,Offline,Cash
+1018,2025-07-09,Smartphone,Electronics,South,4,24335,97340,13.74,83965.48,14044.87,New,Offline,Debit Card
+1019,2025-09-28,Smartphone,Electronics,North,10,39906,399060,7.45,369330.03,92257.78,New,Offline,Debit Card
+1020,2025-09-15,Camera,Electronics,South,10,35248,352480,15.92,296365.18,57415.3,Premium,Online,UPI
+1021,2024-07-07,Laptop,Electronics,West,8,42760,342080,0.13,341635.3,76666.64,Regular,Online,Cash
+1022,2024-10-16,Camera,Electronics,West,9,27490,247410,18.24,202282.42,29137.48,New,Offline,Credit Card
+1023,2025-11-14,Mouse,Accessories,North,10,25801,258010,0.62,256410.34,31104.39,New,Online,Debit Card
+1024,2025-11-12,Smartwatch,Wearables,West,1,46266,46266,19.75,37128.46,7586.52,Premium,Online,Credit Card
+1025,2025-05-13,Headphones,Accessories,East,8,21525,172200,9.38,156047.64,17689.7,Regular,Online,UPI
+1026,2024-12-27,Monitor,Electronics,South,6,46976,281856,13.99,242424.35,29920.93,Regular,Online,UPI
+1027,2025-11-13,Smartphone,Electronics,South,2,22765,45530,4.58,43444.73,4549.68,New,Online,Credit Card
+1028,2025-12-05,Mouse,Accessories,South,2,12315,24630,8.48,22541.38,5138.06,Regular,Offline,Debit Card
+1029,2024-09-07,Mouse,Accessories,North,10,27080,270800,10.24,243070.08,51981.14,New,Offline,Debit Card
+1030,2024-09-28,Headphones,Accessories,North,6,6988,41928,8.65,38301.23,10708.55,Regular,Online,Credit Card
+1031,2025-06-01,Headphones,Accessories,East,10,19685,196850,5.26,186495.69,43767.37,New,Offline,Debit Card
+1032,2025-10-23,Tablet,Electronics,North,3,36390,109170,4.26,104519.36,19542.93,Regular,Online,Credit Card
+1033,2025-07-05,Printer,Office Equipment,East,1,28421,28421,16.16,23828.17,6409.66,Premium,Offline,Credit Card
+1034,2024-11-27,Smartphone,Electronics,West,9,8959,80631,2.28,78792.61,13156.23,New,Offline,Debit Card
+1035,2024-09-03,Camera,Electronics,East,1,36894,36894,0.76,36613.61,9891.74,Regular,Offline,Cash
+1036,2025-08-10,Camera,Electronics,East,5,17364,86820,9.77,78337.69,14324.64,Regular,Online,Cash
+1037,2025-04-26,Smartphone,Electronics,West,9,44624,401616,17.19,332578.21,56548.78,Regular,Offline,Debit Card
+1038,2024-01-19,Smartwatch,Wearables,East,6,4588,27528,1.05,27238.96,8121.5,Premium,Offline,Credit Card
+1039,2025-06-06,Monitor,Electronics,North,4,14633,58532,8.12,53779.2,7652.91,Premium,Offline,UPI
+1040,2024-11-15,Printer,Office Equipment,East,3,27088,81264,11.21,72154.31,8395.19,New,Online,Cash
+1041,2025-08-30,Smartwatch,Wearables,West,8,46490,371920,9.37,337071.1,50251.24,Regular,Offline,Debit Card
+1042,2024-05-14,Smartphone,Electronics,East,10,21946,219460,2.12,214807.45,50158.76,Regular,Offline,Debit Card
+1043,2025-10-14,Headphones,Accessories,South,8,39921,319368,14.93,271686.36,42780.98,Premium,Online,Debit Card
+1044,2024-08-16,Tablet,Electronics,North,3,38966,116898,4.8,111286.9,25236.72,New,Online,Cash
+1045,2024-03-11,Mouse,Accessories,North,1,3673,3673,2.68,3574.56,573.14,Regular,Offline,Credit Card
+1046,2025-07-22,Laptop,Electronics,North,8,17143,137144,0.15,136938.28,29314.1,Regular,Online,Debit Card
+1047,2025-08-06,Camera,Electronics,South,5,28331,141655,0.07,141555.84,27165.8,New,Offline,Credit Card
+1048,2024-03-17,Printer,Office Equipment,South,1,41075,41075,6.93,38228.5,7810.19,Regular,Online,UPI
+1049,2024-11-17,Printer,Office Equipment,South,4,47855,191420,9.68,172890.54,24597.89,New,Offline,Cash
+1050,2025-05-12,Smartphone,Electronics,South,1,34166,34166,17.97,28026.37,7710.94,New,Online,UPI
+1051,2025-07-13,Smartwatch,Wearables,West,9,7591,68319,4.24,65422.27,18518.61,Premium,Offline,Credit Card
+1052,2024-04-04,Mouse,Accessories,North,10,20877,208770,15.13,177183.1,46998.03,New,Offline,Cash
+1053,2025-07-18,Camera,Electronics,East,10,10291,102910,6.39,96334.05,20454.99,New,Offline,UPI
+1054,2024-07-13,Smartwatch,Wearables,West,2,40319,80638,13.89,69437.38,11966.86,New,Online,Credit Card
+1055,2025-03-01,Tablet,Electronics,East,1,29188,29188,7.4,27028.09,6508.77,New,Offline,UPI
+1056,2024-07-27,Laptop,Electronics,East,6,16357,98142,9.17,89142.38,15494.64,Regular,Online,Cash
+1057,2024-04-12,Camera,Electronics,West,2,34336,68672,12.99,59751.51,6466.23,New,Online,Debit Card
+1058,2025-06-05,Laptop,Electronics,East,2,42585,85170,7.83,78501.19,9432.66,Premium,Online,Cash
+1059,2025-02-25,Mouse,Accessories,South,2,43882,87764,6.69,81892.59,23179.14,Regular,Offline,Credit Card
+1060,2025-11-06,Camera,Electronics,West,2,11628,23256,5.85,21895.52,5946.09,Regular,Offline,UPI
+1061,2024-09-02,Smartphone,Electronics,South,6,3916,23496,3.05,22779.37,3128.06,Regular,Offline,Cash
+1062,2025-02-23,Smartwatch,Wearables,North,4,15335,61340,6.39,57420.37,13572.66,New,Offline,UPI
+1063,2025-03-04,Tablet,Electronics,East,8,13534,108272,5.68,102122.15,26871.44,Premium,Online,UPI
+1064,2024-09-13,Smartwatch,Wearables,South,8,14134,113072,17.93,92798.19,24432.92,Regular,Online,Debit Card
+1065,2025-06-19,Laptop,Electronics,East,7,12195,85365,18.56,69521.26,10429.74,New,Online,Cash
+1066,2024-09-02,Smartwatch,Wearables,East,4,46069,184276,2.81,179097.84,36271.0,Premium,Offline,Debit Card
+1067,2025-10-30,Camera,Electronics,South,7,16006,112042,2.61,109117.7,17737.5,Premium,Online,Debit Card
+1068,2025-02-20,Laptop,Electronics,South,10,31810,318100,16.04,267076.76,39301.43,Premium,Online,UPI
+1069,2024-04-28,Smartphone,Electronics,South,6,35416,212496,12.16,186656.49,22143.7,New,Offline,UPI
+1070,2024-02-12,Monitor,Electronics,South,3,28860,86580,19.81,69428.5,14159.61,Regular,Online,Debit Card
+1071,2024-09-11,Laptop,Electronics,East,5,36789,183945,2.54,179272.8,51882.05,New,Offline,UPI
+1072,2025-04-11,Camera,Electronics,South,5,49580,247900,11.07,220457.47,28213.54,Premium,Offline,UPI
+1073,2025-12-21,Laptop,Electronics,North,4,4023,16092,3.95,15456.37,2400.73,New,Online,Cash
+1074,2025-10-15,Camera,Electronics,East,8,35355,282840,14.18,242733.29,39810.69,New,Online,Credit Card
+1075,2025-08-14,Camera,Electronics,South,3,14266,42798,12.64,37388.33,6980.93,Premium,Offline,Debit Card
+1076,2024-01-17,Keyboard,Accessories,South,3,31531,94593,12.02,83222.92,24135.94,Premium,Offline,Cash
+1077,2025-02-24,Camera,Electronics,South,7,34862,244034,11.22,216653.39,47258.21,New,Offline,Credit Card
+1078,2025-02-25,Headphones,Accessories,North,7,31323,219261,9.52,198387.35,45304.94,Premium,Offline,Cash
+1079,2025-08-17,Smartwatch,Wearables,East,6,24383,146298,12.02,128712.98,37417.79,Regular,Offline,Cash
+1080,2024-01-06,Headphones,Accessories,South,7,42943,300601,19.7,241382.6,71331.41,Regular,Offline,Cash
+1081,2024-01-01,Smartwatch,Wearables,West,6,12569,75414,1.45,74320.5,8109.84,Premium,Offline,Credit Card
+1082,2024-08-29,Camera,Electronics,West,2,43983,87966,17.67,72422.41,18206.09,New,Offline,Cash
+1083,2024-02-16,Smartwatch,Wearables,East,1,2965,2965,8.06,2726.02,635.66,New,Online,Cash
+1084,2024-02-20,Mouse,Accessories,East,10,40149,401490,5.42,379729.24,81029.8,Regular,Online,Debit Card
+1085,2024-02-15,Mouse,Accessories,East,7,41124,287868,8.66,262938.63,43638.41,Premium,Offline,Credit Card
+1086,2025-12-29,Keyboard,Accessories,East,3,32511,97533,10.91,86892.15,10602.84,New,Online,Cash
+1087,2025-02-28,Smartwatch,Wearables,West,5,36691,183455,19.23,148176.6,15655.26,Premium,Online,Credit Card
+1088,2025-01-16,Smartwatch,Wearables,North,4,33351,133404,14.56,113980.38,23776.75,Premium,Offline,Credit Card
+1089,2024-10-12,Printer,Office Equipment,West,8,45962,367696,17.8,302246.11,48131.53,New,Offline,Credit Card
+1090,2025-07-12,Smartphone,Electronics,West,5,37521,187605,17.51,154755.36,25090.7,New,Offline,Credit Card
+1091,2025-09-22,Monitor,Electronics,South,10,19380,193800,13.45,167733.9,46753.13,New,Offline,UPI
+1092,2025-03-25,Tablet,Electronics,East,8,1736,13888,7.46,12851.96,3049.51,New,Online,Debit Card
+1093,2024-04-12,Keyboard,Accessories,West,6,6368,38208,8.13,35101.69,3668.43,Premium,Offline,Cash
+1094,2024-07-26,Laptop,Electronics,South,2,3727,7454,8.37,6830.1,1892.5,New,Online,Cash
+1095,2024-12-10,Monitor,Electronics,East,10,9682,96820,19.81,77639.96,8936.3,Regular,Offline,Credit Card
+1096,2024-08-07,Laptop,Electronics,East,10,44779,447790,1.07,442998.65,129602.47,Regular,Offline,Cash
+1097,2025-12-16,Smartphone,Electronics,South,8,8571,68568,19.12,55457.8,7669.02,New,Offline,Cash
+1098,2025-05-02,Tablet,Electronics,East,3,31515,94545,6.98,87945.76,17689.53,New,Online,UPI
+1099,2024-05-06,Printer,Office Equipment,North,9,34202,307818,13.68,265708.5,66550.32,New,Offline,Debit Card
+1100,2024-12-10,Smartwatch,Wearables,South,7,41027,287189,19.01,232594.37,51742.61,Regular,Offline,Cash
+1101,2024-04-12,Headphones,Accessories,South,2,36823,73646,18.25,60205.61,16581.4,Regular,Offline,Credit Card
+1102,2024-09-17,Monitor,Electronics,North,5,26595,132975,2.46,129703.82,35325.44,Premium,Offline,Credit Card
+1103,2025-01-20,Headphones,Accessories,North,5,6887,34435,7.52,31845.49,6445.5,Premium,Offline,Credit Card
+1104,2025-08-05,Keyboard,Accessories,East,5,10872,54360,7.81,50114.48,12759.24,Regular,Online,Credit Card
+1105,2025-05-29,Camera,Electronics,West,6,39225,235350,14.17,202000.91,32593.29,New,Online,Cash
+1106,2025-02-19,Mouse,Accessories,South,6,39707,238242,1.68,234239.53,54646.8,Premium,Offline,Debit Card
+1107,2025-01-27,Keyboard,Accessories,South,3,41148,123444,7.88,113716.61,33362.85,New,Online,Cash
+1108,2024-08-07,Keyboard,Accessories,South,3,34044,102132,16.42,85361.93,21252.61,New,Online,Cash
+1109,2024-09-06,Keyboard,Accessories,North,6,4454,26724,3.13,25887.54,3972.01,Regular,Offline,Cash
+1110,2024-04-12,Keyboard,Accessories,West,6,18266,109596,15.78,92301.75,21777.96,Premium,Offline,Debit Card
+1111,2024-07-29,Headphones,Accessories,North,5,46003,230015,7.29,213246.91,24490.62,New,Online,Debit Card
+1112,2025-02-20,Printer,Office Equipment,West,10,37835,378350,15.08,321294.82,46663.36,Premium,Online,Cash
+1113,2025-05-21,Mouse,Accessories,West,9,24138,217242,12.24,190651.58,34677.67,New,Online,Debit Card
+1114,2024-07-07,Mouse,Accessories,East,9,26475,238275,12.68,208061.73,50044.6,Premium,Offline,Cash
+1115,2025-01-23,Printer,Office Equipment,South,9,33900,305100,1.79,299638.71,46860.35,New,Online,Cash
+1116,2024-11-21,Camera,Electronics,East,8,34510,276080,7.25,256064.2,55441.14,New,Online,UPI
+1117,2025-04-30,Smartwatch,Wearables,West,9,36716,330444,4.89,314285.29,84244.59,Premium,Online,Debit Card
+1118,2025-02-15,Mouse,Accessories,South,3,30886,92658,2.26,90563.93,14999.01,Regular,Online,Credit Card
+1119,2025-01-26,Printer,Office Equipment,North,4,2167,8668,17.17,7179.7,1337.47,Regular,Offline,UPI
+1120,2025-09-13,Camera,Electronics,East,9,44688,402192,18.76,326740.78,49416.72,New,Online,Debit Card
+1121,2024-02-22,Printer,Office Equipment,East,2,24487,48974,13.22,42499.64,12145.54,Premium,Offline,Debit Card
+1122,2024-05-05,Camera,Electronics,South,9,35132,316188,0.05,316029.91,46496.51,Regular,Online,Credit Card
+1123,2024-08-02,Tablet,Electronics,South,1,35468,35468,10.8,31637.46,7551.16,Premium,Online,Cash
+1124,2025-09-03,Laptop,Electronics,North,9,7243,65187,0.07,65141.37,8914.15,New,Offline,Debit Card
+1125,2025-04-26,Headphones,Accessories,East,6,39741,238446,2.1,233438.63,43734.19,Regular,Online,UPI
+1126,2025-05-08,Mouse,Accessories,North,5,11760,58800,2.58,57282.96,14874.98,New,Online,Debit Card
+1127,2024-09-05,Laptop,Electronics,South,3,3956,11868,4.94,11281.72,2781.7,Regular,Online,UPI
+1128,2025-04-28,Monitor,Electronics,West,4,19334,77336,19.45,62294.15,15558.76,Regular,Online,Credit Card
+1129,2025-03-20,Monitor,Electronics,West,8,40129,321032,5.68,302797.38,87208.53,Premium,Online,Cash
+1130,2024-11-09,Monitor,Electronics,East,5,856,4280,1.45,4217.94,1043.54,Premium,Online,Cash
+1131,2025-04-09,Keyboard,Accessories,South,6,14061,84366,11.06,75035.12,17448.92,New,Online,UPI
+1132,2025-08-17,Smartphone,Electronics,East,5,9647,48235,1.08,47714.06,9984.38,New,Online,Cash
+1133,2024-02-01,Camera,Electronics,East,6,49537,297222,18.45,242384.54,31053.28,Regular,Offline,UPI
+1134,2025-07-04,Headphones,Accessories,South,2,38520,77040,9.44,69767.42,17237.8,New,Online,Cash
+1135,2025-05-31,Tablet,Electronics,South,2,4948,9896,7.96,9108.28,1159.39,New,Offline,Debit Card
+1136,2025-05-19,Headphones,Accessories,North,2,22239,44478,7.11,41315.61,10750.53,Regular,Online,Cash
+1137,2025-11-04,Printer,Office Equipment,South,2,39402,78804,2.17,77093.95,19226.04,New,Online,Credit Card
+1138,2024-09-28,Headphones,Accessories,North,4,46260,185040,4.14,177379.34,44546.26,Regular,Online,Debit Card
+1139,2024-03-13,Headphones,Accessories,South,9,32777,294993,10.79,263163.26,34296.48,Regular,Offline,Cash
+1140,2024-09-03,Smartphone,Electronics,East,5,31218,156090,1.41,153889.13,15515.88,New,Online,Cash
+1141,2025-03-29,Smartwatch,Wearables,South,8,28099,224792,10.18,201908.17,47469.45,Premium,Offline,Cash
+1142,2024-04-13,Camera,Electronics,North,9,17022,153198,17.62,126204.51,17818.88,Regular,Offline,Cash
+1143,2025-05-20,Laptop,Electronics,South,10,46101,461010,9.61,416706.94,67003.39,Regular,Offline,Credit Card
+1144,2025-04-22,Smartphone,Electronics,South,7,49301,345107,8.27,316566.65,64944.88,Regular,Offline,Cash
+1145,2024-06-28,Keyboard,Accessories,West,8,36051,288408,13.2,250338.14,47946.26,Premium,Offline,Credit Card
+1146,2024-08-19,Laptop,Electronics,North,5,36862,184310,15.2,156294.88,35413.68,Premium,Offline,UPI
+1147,2025-03-05,Smartwatch,Wearables,East,2,26053,52106,14.51,44545.42,11400.79,New,Online,Debit Card
+1148,2025-06-08,Headphones,Accessories,East,2,43858,87716,10.67,78356.7,9618.43,Regular,Offline,Cash
+1149,2025-10-23,Printer,Office Equipment,South,5,15861,79305,1.97,77742.69,12563.91,New,Online,Credit Card
+1150,2025-08-22,Smartphone,Electronics,South,6,10479,62874,13.43,54430.02,5595.04,Regular,Online,Credit Card
+1151,2024-10-07,Smartphone,Electronics,North,9,2065,18585,1.16,18369.41,4580.35,Premium,Offline,Credit Card
+1152,2024-10-08,Headphones,Accessories,East,2,12025,24050,12.36,21077.42,3595.54,Regular,Online,UPI
+1153,2024-03-27,Smartwatch,Wearables,South,4,8744,34976,19.38,28197.65,3757.74,New,Online,Debit Card
+1154,2024-11-16,Smartphone,Electronics,West,9,44675,402075,9.09,365526.38,84981.15,Premium,Offline,Credit Card
+1155,2024-05-04,Camera,Electronics,North,8,36385,291080,13.68,251260.26,33048.76,New,Online,UPI
+1156,2024-11-30,Keyboard,Accessories,North,3,7279,21837,8.63,19952.47,2137.99,Premium,Offline,Debit Card
+1157,2025-10-11,Smartphone,Electronics,North,8,45226,361808,6.31,338977.92,84550.91,Regular,Online,UPI
+1158,2024-01-21,Printer,Office Equipment,West,9,22597,203373,12.76,177422.61,28842.22,New,Offline,Debit Card
+1159,2025-11-04,Headphones,Accessories,North,1,40536,40536,17.72,33353.02,5649.36,New,Offline,Cash
+1160,2025-08-29,Smartphone,Electronics,West,4,3551,14204,17.98,11650.12,1851.96,Regular,Online,Cash
+1161,2024-01-04,Smartphone,Electronics,South,9,40207,361863,9.22,328499.23,96320.88,New,Offline,UPI
+1162,2025-05-07,Laptop,Electronics,South,2,27103,54206,7.3,50248.96,5292.59,New,Offline,Cash
+1163,2024-03-18,Laptop,Electronics,North,2,7652,15304,10.87,13640.46,2237.94,New,Offline,UPI
+1164,2025-09-03,Smartphone,Electronics,South,5,18143,90715,9.88,81752.36,11868.85,Premium,Online,Cash
+1165,2025-06-24,Laptop,Electronics,North,7,21440,150080,5.69,141540.45,36211.55,Regular,Online,Cash
+1166,2025-07-16,Camera,Electronics,North,7,23281,162967,15.74,137315.99,21264.5,New,Offline,UPI
+1167,2025-01-05,Camera,Electronics,South,9,960,8640,4.05,8290.08,1580.99,Premium,Online,UPI
+1168,2025-10-12,Smartphone,Electronics,North,1,16574,16574,18.53,13502.84,3557.42,Premium,Online,UPI
+1169,2025-04-10,Mouse,Accessories,South,1,5987,5987,6.07,5623.59,963.96,Premium,Offline,Debit Card
+1170,2024-09-29,Tablet,Electronics,East,7,20406,142842,11.04,127072.24,19382.33,Premium,Online,Debit Card
+1171,2024-12-28,Smartphone,Electronics,North,7,38988,272916,13.98,234762.34,58007.46,New,Offline,UPI
+1172,2024-09-25,Camera,Electronics,North,6,22991,137946,18.39,112577.73,17782.81,Premium,Offline,Debit Card
+1173,2025-02-15,Printer,Office Equipment,North,6,41193,247158,4.98,234849.53,24944.44,New,Offline,Debit Card
+1174,2025-11-26,Headphones,Accessories,South,9,15644,140796,11.39,124759.34,15634.74,New,Online,Cash
+1175,2025-05-14,Tablet,Electronics,North,10,5346,53460,10.98,47590.09,13080.3,New,Offline,Credit Card
+1176,2024-02-18,Camera,Electronics,South,9,809,7281,11.28,6459.7,905.35,New,Online,Debit Card
+1177,2024-02-07,Camera,Electronics,West,9,12545,112905,4.37,107971.05,30841.66,New,Offline,Cash
+1178,2025-07-21,Smartwatch,Wearables,South,7,17029,119203,18.14,97579.58,20853.79,New,Online,Debit Card
+1179,2024-02-07,Headphones,Accessories,East,8,21111,168888,10.77,150698.76,22101.01,New,Offline,UPI
+1180,2024-10-22,Printer,Office Equipment,East,2,37417,74834,19.51,60233.89,13799.75,Regular,Online,Cash
+1181,2024-05-25,Printer,Office Equipment,West,2,25913,51826,17.76,42621.7,12020.07,Regular,Online,Debit Card
+1182,2025-09-17,Laptop,Electronics,North,8,30175,241400,10.97,214918.42,33330.73,Regular,Offline,Credit Card
+1183,2024-09-15,Monitor,Electronics,South,7,27915,195405,14.76,166563.22,49560.18,Premium,Online,Cash
+1184,2024-10-15,Smartwatch,Wearables,South,9,31465,283185,4.82,269535.48,54815.02,Regular,Offline,Debit Card
+1185,2025-01-05,Mouse,Accessories,West,3,17838,53514,15.74,45090.9,10602.89,New,Online,Debit Card
+1186,2024-09-11,Smartwatch,Wearables,West,6,27109,162654,14.43,139183.03,39750.51,Regular,Online,Credit Card
+1187,2025-05-03,Camera,Electronics,West,4,38985,155940,14.38,133515.83,39817.73,Regular,Offline,Debit Card
+1188,2025-11-12,Headphones,Accessories,East,1,47793,47793,14.15,41030.29,8785.45,Premium,Offline,UPI
+1189,2025-04-06,Laptop,Electronics,West,3,47663,142989,8.02,131521.28,28026.01,New,Online,UPI
+1190,2024-07-21,Keyboard,Accessories,West,1,23784,23784,6.36,22271.34,5615.12,New,Offline,Debit Card
+1191,2025-07-27,Smartphone,Electronics,South,10,26604,266040,15.55,224670.78,67295.98,New,Offline,UPI
+1192,2025-02-13,Monitor,Electronics,North,8,11552,92416,4.82,87961.55,22946.55,Premium,Online,Credit Card
+1193,2025-09-26,Printer,Office Equipment,East,9,21425,192825,15.33,163264.93,38133.23,Premium,Offline,UPI
+1194,2025-05-11,Laptop,Electronics,North,4,15969,63876,12.88,55648.77,14679.51,Premium,Online,UPI
+1195,2024-06-04,Keyboard,Accessories,East,1,34636,34636,11.58,30625.15,7445.77,New,Online,Debit Card
+1196,2024-10-14,Smartphone,Electronics,South,1,43969,43969,2.67,42795.03,12556.49,Premium,Offline,Cash
+1197,2024-03-17,Tablet,Electronics,South,8,13825,110600,0.59,109947.46,28391.37,Premium,Online,UPI
+1198,2025-02-07,Tablet,Electronics,East,2,43972,87944,4.31,84153.61,17203.55,Regular,Online,Cash
+1199,2024-08-27,Keyboard,Accessories,South,8,31560,252480,18.95,204635.04,26714.18,Premium,Offline,Cash
+1200,2024-05-29,Laptop,Electronics,West,7,12138,84966,0.02,84949.01,16174.89,Regular,Online,Credit Card
+1201,2024-06-08,Tablet,Electronics,South,6,22478,134868,3.36,130336.44,27292.09,New,Online,Debit Card
+1202,2025-01-05,Printer,Office Equipment,South,8,13056,104448,4.21,100050.74,28355.63,Premium,Online,Credit Card
+1203,2025-01-15,Smartphone,Electronics,East,8,25344,202752,17.59,167087.92,33120.79,New,Offline,UPI
+1204,2025-09-12,Tablet,Electronics,North,4,23839,95356,3.57,91951.79,9850.61,New,Offline,Debit Card
+1205,2024-10-11,Mouse,Accessories,South,3,47972,143916,15.81,121162.88,34141.27,New,Offline,Debit Card
+1206,2025-07-15,Mouse,Accessories,West,2,45072,90144,12.04,79290.66,13209.1,Premium,Online,Credit Card
+1207,2025-04-26,Tablet,Electronics,East,10,22498,224980,11.7,198657.34,31269.86,New,Offline,UPI
+1208,2024-07-22,Tablet,Electronics,South,7,3917,27419,15.49,23171.8,3891.89,New,Online,Debit Card
+1209,2024-09-19,Camera,Electronics,East,9,28241,254169,17.08,210756.93,34124.45,Premium,Offline,Debit Card
+1210,2024-04-27,Keyboard,Accessories,West,1,45210,45210,8.16,41520.86,4713.92,Premium,Offline,Debit Card
+1211,2024-03-18,Camera,Electronics,East,6,31747,190482,6.23,178614.97,24144.05,New,Offline,Debit Card
+1212,2025-05-24,Keyboard,Accessories,South,1,33750,33750,13.46,29207.25,3584.24,Premium,Online,Debit Card
+1213,2024-09-27,Camera,Electronics,North,2,46552,93104,5.33,88141.56,20004.94,New,Online,Credit Card
+1214,2024-12-29,Smartphone,Electronics,West,2,29881,59762,0.81,59277.93,16245.15,Premium,Online,Debit Card
+1215,2025-09-04,Tablet,Electronics,North,6,46707,280242,7.77,258467.2,35229.37,New,Online,UPI
+1216,2024-06-05,Monitor,Electronics,West,4,15288,61152,7.19,56755.17,14975.15,New,Offline,Credit Card
+1217,2024-03-29,Keyboard,Accessories,East,4,33832,135328,11.01,120428.39,31529.39,Regular,Online,Cash
+1218,2025-06-27,Laptop,Electronics,West,2,44994,89988,16.16,75445.94,17059.17,New,Online,UPI
+1219,2025-07-25,Mouse,Accessories,South,3,30141,90423,1.23,89310.8,12792.98,New,Offline,UPI
+1220,2025-02-23,Keyboard,Accessories,East,6,32427,194562,1.99,190690.22,52495.46,Premium,Offline,Debit Card
+1221,2025-06-04,Headphones,Accessories,South,6,37940,227640,1.22,224862.79,61728.73,New,Online,Credit Card
+1222,2024-02-09,Tablet,Electronics,East,9,27344,246096,3.09,238491.63,36994.73,Premium,Online,Debit Card
+1223,2024-03-05,Headphones,Accessories,North,9,44442,399978,17.25,330981.79,85931.75,Premium,Offline,Cash
+1224,2024-09-29,Headphones,Accessories,East,7,14291,100037,12.57,87462.35,15509.23,Premium,Online,Cash
+1225,2024-11-08,Printer,Office Equipment,East,8,40152,321216,19.29,259253.43,33296.12,Regular,Online,UPI
+1226,2024-02-22,Headphones,Accessories,West,10,15706,157060,7.93,144605.14,31756.91,Regular,Online,Debit Card
+1227,2024-06-25,Camera,Electronics,South,2,9162,18324,15.97,15397.66,4157.98,Regular,Offline,UPI
+1228,2024-10-23,Printer,Office Equipment,East,10,30723,307230,19.45,247473.76,36511.78,Regular,Online,Credit Card
+1229,2024-03-21,Keyboard,Accessories,North,7,29566,206962,4.47,197710.8,41140.85,New,Offline,Cash
+1230,2025-08-03,Keyboard,Accessories,South,1,27590,27590,8.73,25181.39,3186.91,New,Online,UPI
+1231,2025-08-05,Camera,Electronics,East,6,37500,225000,7.19,208822.5,30955.37,Regular,Online,Cash
+1232,2025-12-04,Monitor,Electronics,West,9,32910,296190,18.13,242490.75,55357.33,Premium,Offline,Credit Card
+1233,2025-05-10,Laptop,Electronics,West,4,26628,106512,19.74,85486.53,22604.05,Premium,Offline,UPI
+1234,2024-06-30,Mouse,Accessories,South,5,36688,183440,15.79,154474.82,35225.8,Regular,Online,UPI
+1235,2024-04-24,Keyboard,Accessories,West,9,19940,179460,5.81,169033.37,18569.01,Premium,Online,UPI
+1236,2024-08-23,Mouse,Accessories,East,10,14796,147960,9.7,133607.88,23729.71,Premium,Online,Debit Card
+1237,2025-01-23,Smartwatch,Wearables,North,2,36904,73808,11.59,65253.65,16864.68,New,Offline,Cash
+1238,2025-07-07,Keyboard,Accessories,West,10,39500,395000,7.23,366441.5,59214.99,Premium,Online,Credit Card
+1239,2024-10-05,Mouse,Accessories,West,8,1979,15832,4.46,15125.89,3793.62,New,Offline,UPI
+1240,2025-08-22,Headphones,Accessories,North,10,31509,315090,15.56,266062.0,32030.19,Regular,Online,Cash
+1241,2025-07-24,Camera,Electronics,South,3,19235,57705,3.27,55818.05,14074.03,Premium,Online,Debit Card
+1242,2025-12-26,Keyboard,Accessories,East,6,2683,16098,8.57,14718.4,2678.84,Premium,Offline,Cash
+1243,2025-12-22,Monitor,Electronics,South,3,35020,105060,3.7,101172.78,19799.12,Regular,Online,Credit Card
+1244,2025-02-19,Smartwatch,Wearables,West,7,12527,87689,9.05,79753.15,15177.54,Regular,Offline,Cash
+1245,2024-02-08,Laptop,Electronics,East,1,29554,29554,16.2,24766.25,6161.94,New,Offline,Cash
+1246,2024-08-12,Headphones,Accessories,North,8,10999,87992,6.99,81841.36,14794.74,New,Offline,Cash
+1247,2024-04-14,Printer,Office Equipment,East,2,16131,32262,17.95,26470.97,4540.48,Regular,Online,Credit Card
+1248,2024-01-03,Monitor,Electronics,West,8,5676,45408,7.19,42143.16,8321.2,New,Offline,UPI
+1249,2025-06-14,Tablet,Electronics,East,10,16722,167220,5.4,158190.12,16928.31,Premium,Offline,Cash
+1250,2024-03-04,Smartphone,Electronics,West,7,40738,285166,8.09,262096.07,75347.88,Regular,Online,Credit Card
+1251,2025-09-06,Monitor,Electronics,West,7,11712,81984,4.28,78475.08,22293.98,New,Online,UPI
+1252,2024-04-22,Printer,Office Equipment,South,4,16012,64048,5.95,60237.14,8413.49,New,Online,Debit Card
+1253,2024-05-23,Smartwatch,Wearables,North,4,34330,137320,19.09,111105.61,25292.89,New,Online,Credit Card
+1254,2024-03-20,Camera,Electronics,South,1,18232,18232,0.56,18129.9,4409.44,New,Online,Debit Card
+1255,2025-03-19,Mouse,Accessories,East,4,37250,149000,6.78,138897.8,18911.63,New,Online,Debit Card
+1256,2025-11-03,Tablet,Electronics,West,3,47497,142491,19.06,115332.22,12941.52,Premium,Offline,Debit Card
+1257,2024-10-24,Tablet,Electronics,West,3,12856,38568,2.0,37796.64,8231.23,Regular,Offline,Credit Card
+1258,2024-02-07,Smartwatch,Wearables,South,3,18393,55179,6.56,51559.26,10272.04,Regular,Offline,Cash
+1259,2024-12-08,Printer,Office Equipment,South,9,35453,319077,17.7,262600.37,57530.78,Premium,Offline,Credit Card
+1260,2025-11-08,Camera,Electronics,South,6,3629,21774,9.87,19624.91,5277.26,New,Online,UPI
+1261,2025-07-08,Laptop,Electronics,North,10,20219,202190,8.08,185853.05,23711.9,New,Online,Debit Card
+1262,2025-03-01,Camera,Electronics,North,10,7036,70360,13.39,60938.8,9086.72,Premium,Online,UPI
+1263,2025-11-24,Laptop,Electronics,East,10,14945,149450,19.72,119978.46,12715.86,Regular,Offline,Debit Card
+1264,2024-12-22,Camera,Electronics,North,3,16511,49533,5.27,46922.61,13645.79,Premium,Offline,Debit Card
+1265,2024-12-19,Smartphone,Electronics,East,6,4000,24000,13.52,20755.2,2484.73,Premium,Offline,Debit Card
+1266,2024-03-09,Tablet,Electronics,North,7,21386,149702,11.38,132665.91,37585.0,Regular,Offline,Cash
+1267,2024-09-30,Printer,Office Equipment,East,4,30923,123692,0.01,123679.63,34424.18,Regular,Offline,Cash
+1268,2024-05-02,Smartphone,Electronics,South,2,6901,13802,10.19,12395.58,1295.89,Regular,Offline,Credit Card
+1269,2024-09-29,Monitor,Electronics,West,1,31265,31265,8.48,28613.73,6761.46,New,Offline,Cash
+1270,2025-09-13,Mouse,Accessories,East,7,6955,48685,19.85,39021.03,6407.66,Regular,Offline,Debit Card
+1271,2024-03-14,Laptop,Electronics,North,8,12398,99184,14.08,85218.89,12305.78,Premium,Online,Credit Card
+1272,2025-05-16,Tablet,Electronics,South,2,2848,5696,12.04,5010.2,830.6,Regular,Online,Cash
+1273,2024-05-19,Headphones,Accessories,North,6,42527,255162,15.16,216479.44,25365.93,New,Offline,UPI
+1274,2024-12-03,Camera,Electronics,West,5,37555,187775,5.84,176808.94,23501.1,New,Offline,UPI
+1275,2025-02-26,Camera,Electronics,East,10,7305,73050,1.79,71742.4,16833.9,Regular,Online,UPI
+1276,2024-03-21,Camera,Electronics,North,10,34912,349120,10.4,312811.52,34097.59,Regular,Online,Credit Card
+1277,2025-12-17,Tablet,Electronics,South,8,5680,45440,7.47,42045.63,8634.8,New,Online,Debit Card
+1278,2025-12-16,Smartphone,Electronics,South,6,34373,206238,6.69,192440.68,43627.32,New,Offline,Credit Card
+1279,2025-10-25,Keyboard,Accessories,North,9,21197,190773,8.43,174690.84,47558.07,Regular,Offline,Debit Card
+1280,2024-03-26,Mouse,Accessories,South,10,12791,127910,7.81,117920.23,12111.09,Regular,Online,Cash
+1281,2025-04-24,Headphones,Accessories,South,5,24873,124365,3.37,120173.9,31878.96,Premium,Online,Credit Card
+1282,2024-11-27,Monitor,Electronics,North,1,23166,23166,9.35,20999.98,4179.13,Regular,Online,Debit Card
+1283,2025-05-19,Headphones,Accessories,West,5,41964,209820,5.72,197818.3,22111.05,Regular,Online,Cash
+1284,2025-04-04,Camera,Electronics,West,9,861,7749,11.16,6884.21,815.54,New,Online,Debit Card
+1285,2025-12-29,Camera,Electronics,South,5,32126,160630,5.8,151313.46,42345.98,Premium,Online,Cash
+1286,2024-05-04,Smartwatch,Wearables,North,9,17064,153576,5.36,145344.33,38912.62,New,Online,Cash
+1287,2025-04-21,Smartphone,Electronics,East,10,5021,50210,6.25,47071.88,7361.64,Regular,Online,Cash
+1288,2025-01-07,Smartwatch,Wearables,North,8,10181,81448,3.44,78646.19,14170.48,Premium,Offline,Debit Card
+1289,2024-03-19,Printer,Office Equipment,North,7,3531,24717,17.64,20356.92,4710.77,Premium,Offline,Credit Card
+1290,2025-10-18,Tablet,Electronics,South,5,22396,111980,8.91,102002.58,29606.76,New,Offline,Debit Card
+1291,2025-02-26,Monitor,Electronics,West,1,37581,37581,1.25,37111.24,4855.8,Premium,Online,Cash
+1292,2024-10-06,Smartwatch,Wearables,South,3,39590,118770,3.91,114126.09,24646.34,Premium,Offline,Cash
+1293,2024-03-27,Smartwatch,Wearables,East,10,18644,186440,19.08,150867.25,41939.2,Regular,Online,UPI
+1294,2024-08-23,Tablet,Electronics,East,7,34971,244797,13.3,212239.0,24017.58,Premium,Online,Cash
+1295,2025-07-09,Laptop,Electronics,East,10,10847,108470,16.09,91017.18,15736.3,New,Online,Credit Card
+1296,2024-11-05,Smartwatch,Wearables,North,9,34671,312039,10.91,277995.55,71423.18,Premium,Offline,Credit Card
+1297,2024-12-05,Mouse,Accessories,South,6,46581,279486,10.67,249664.84,32976.88,Premium,Offline,Debit Card
+1298,2025-04-16,Headphones,Accessories,East,8,44662,357296,17.93,293232.83,60608.94,Regular,Offline,Cash
+1299,2024-08-21,Camera,Electronics,South,3,13500,40500,16.96,33631.2,6310.17,Premium,Online,Debit Card
+1300,2025-08-18,Keyboard,Accessories,South,2,6401,12802,6.3,11995.47,1888.43,Regular,Offline,Credit Card
+1301,2025-12-30,Printer,Office Equipment,South,7,22716,159012,16.16,133315.66,19186.97,Premium,Online,UPI
+1302,2024-10-24,Headphones,Accessories,East,7,46953,328671,11.17,291958.45,60808.03,Premium,Offline,UPI
+1303,2025-06-28,Tablet,Electronics,East,7,20543,143801,16.27,120404.58,28803.93,Regular,Online,UPI
+1304,2024-07-05,Smartwatch,Wearables,North,2,16596,33192,2.28,32435.22,9640.8,Premium,Online,UPI
+1305,2025-09-22,Tablet,Electronics,West,6,22499,134994,3.7,129999.22,15985.11,Regular,Offline,UPI
+1306,2024-05-31,Mouse,Accessories,South,5,14279,71395,6.91,66461.61,14018.93,Premium,Offline,UPI
+1307,2025-11-22,Mouse,Accessories,South,1,37950,37950,4.75,36147.38,6947.98,Regular,Offline,UPI
+1308,2024-06-16,Printer,Office Equipment,West,9,18198,163782,18.58,133351.3,21269.55,New,Online,UPI
+1309,2025-11-27,Tablet,Electronics,North,2,7260,14520,14.7,12385.56,1615.81,Premium,Offline,Debit Card
+1310,2024-02-19,Smartphone,Electronics,East,5,43406,217030,2.02,212645.99,62064.66,Regular,Offline,Credit Card
+1311,2024-12-05,Mouse,Accessories,North,2,17345,34690,16.95,28810.05,5392.27,Premium,Online,UPI
+1312,2025-12-14,Tablet,Electronics,North,5,29275,146375,5.59,138192.64,30407.97,Regular,Online,Debit Card
+1313,2025-12-22,Headphones,Accessories,East,5,49234,246170,17.84,202253.27,44233.58,Regular,Offline,UPI
+1314,2025-03-24,Tablet,Electronics,West,10,40673,406730,13.03,353733.08,78853.37,New,Online,Debit Card
+1315,2025-01-27,Tablet,Electronics,North,4,35591,142364,5.49,134548.22,20577.03,Regular,Offline,Debit Card
+1316,2024-12-25,Laptop,Electronics,North,5,42521,212605,13.14,184668.7,33924.04,Regular,Online,Cash
+1317,2024-02-27,Monitor,Electronics,South,2,32464,64928,6.04,61006.35,17572.2,Premium,Offline,Cash
+1318,2025-06-06,Printer,Office Equipment,North,9,1186,10674,10.11,9594.86,1976.94,Premium,Online,Cash
+1319,2025-08-29,Smartphone,Electronics,East,6,14396,86376,1.46,85114.91,9701.71,Regular,Online,Debit Card
+1320,2025-05-25,Printer,Office Equipment,South,1,23853,23853,11.11,21202.93,4601.84,New,Online,Credit Card
+1321,2024-10-29,Tablet,Electronics,North,7,16982,118874,3.47,114749.07,28462.85,Premium,Offline,Debit Card
+1322,2025-01-20,Smartwatch,Wearables,East,9,38165,343485,7.31,318376.25,51692.38,New,Offline,Debit Card
+1323,2025-11-28,Keyboard,Accessories,South,9,30895,278055,5.5,262761.97,28695.77,New,Online,UPI
+1324,2024-05-31,Smartphone,Electronics,North,3,1267,3801,14.95,3232.75,510.93,Regular,Online,Cash
+1325,2025-07-19,Laptop,Electronics,South,6,18402,110412,1.11,109186.43,26477.79,New,Offline,UPI
+1326,2025-09-03,Camera,Electronics,South,5,37957,189785,0.78,188304.68,40330.56,Regular,Offline,Cash
+1327,2025-12-29,Smartphone,Electronics,South,2,40084,80168,15.78,67517.49,15310.61,Premium,Online,Debit Card
+1328,2025-02-05,Monitor,Electronics,West,4,42448,169792,7.27,157448.12,20998.2,Regular,Offline,Credit Card
+1329,2025-04-15,Mouse,Accessories,North,10,22413,224130,7.31,207746.1,21095.58,New,Offline,Credit Card
+1330,2025-04-19,Camera,Electronics,South,3,30831,92493,7.14,85889.0,25009.1,Premium,Offline,Debit Card
+1331,2025-05-13,Smartphone,Electronics,West,7,38270,267890,10.96,238529.26,33546.46,New,Online,Debit Card
+1332,2024-12-07,Mouse,Accessories,North,4,49603,198412,15.77,167122.43,39459.83,Regular,Online,Cash
+1333,2024-10-04,Camera,Electronics,East,3,27527,82581,2.25,80722.93,21907.36,New,Offline,Debit Card
+1334,2024-04-30,Headphones,Accessories,East,8,26975,215800,16.39,180430.38,24757.99,Premium,Offline,Debit Card
+1335,2024-05-09,Tablet,Electronics,North,10,35078,350780,19.85,281150.17,40432.64,Premium,Offline,UPI
+1336,2025-12-14,Smartphone,Electronics,West,1,33366,33366,10.17,29972.68,3002.46,Premium,Offline,Cash
+1337,2024-03-05,Camera,Electronics,North,6,10742,64452,13.28,55892.77,8538.67,Regular,Offline,Cash
+1338,2025-02-11,Printer,Office Equipment,South,1,23541,23541,13.24,20424.17,4184.63,New,Online,Credit Card
+1339,2024-01-07,Smartwatch,Wearables,East,2,43621,87242,15.81,73449.04,14906.79,New,Offline,Debit Card
+1340,2024-11-23,Headphones,Accessories,West,2,17589,35178,15.04,29887.23,7647.85,Regular,Online,UPI
+1341,2024-04-17,Smartwatch,Wearables,East,4,43011,172044,15.45,145463.2,17969.34,Regular,Offline,Cash
+1342,2024-07-28,Tablet,Electronics,South,9,45982,413838,13.19,359252.77,40677.54,Premium,Offline,Cash
+1343,2024-06-25,Monitor,Electronics,North,2,20383,40766,9.55,36872.85,8446.64,Premium,Online,UPI
+1344,2024-01-23,Smartwatch,Wearables,North,6,21347,128082,11.84,112917.09,12564.61,New,Online,UPI
+1345,2024-04-08,Keyboard,Accessories,South,2,36707,73414,12.82,64002.33,8337.21,Premium,Online,UPI
+1346,2025-07-07,Tablet,Electronics,East,5,22539,112695,19.32,90922.33,20810.04,Premium,Offline,UPI
+1347,2024-03-25,Monitor,Electronics,North,2,31671,63342,17.34,52358.5,9284.91,New,Offline,Debit Card
+1348,2024-08-30,Monitor,Electronics,East,5,1999,9995,2.45,9750.12,1691.32,Premium,Online,Debit Card
+1349,2024-05-02,Smartphone,Electronics,South,5,46973,234865,17.75,193176.46,42621.01,Regular,Online,UPI
+1350,2024-03-21,Printer,Office Equipment,West,1,10914,10914,4.2,10455.61,2366.03,Regular,Online,Debit Card
+1351,2025-12-13,Printer,Office Equipment,West,6,28806,172836,15.64,145804.45,25055.91,Regular,Offline,UPI
+1352,2025-06-27,Tablet,Electronics,South,9,36227,326043,10.68,291221.61,35045.22,New,Offline,Debit Card
+1353,2025-06-29,Smartwatch,Wearables,South,3,12992,38976,8.72,35577.29,6841.93,New,Online,Cash
+1354,2024-12-31,Keyboard,Accessories,East,7,44256,309792,12.44,271253.88,50291.87,Regular,Online,Cash
+1355,2024-05-28,Headphones,Accessories,East,9,17891,161019,16.26,134837.31,24966.14,Premium,Offline,UPI
+1356,2025-08-01,Tablet,Electronics,East,10,17689,176890,14.11,151930.82,25412.0,Regular,Offline,UPI
+1357,2024-12-11,Tablet,Electronics,West,4,14114,56456,7.19,52396.81,9064.14,Regular,Online,Debit Card
+1358,2024-12-18,Headphones,Accessories,South,9,34301,308709,12.93,268792.93,53705.92,Regular,Online,UPI
+1359,2024-06-27,Keyboard,Accessories,East,5,27936,139680,10.59,124887.89,19747.6,Premium,Offline,Cash
+1360,2025-03-27,Monitor,Electronics,East,8,3946,31568,6.02,29667.61,8338.44,Regular,Offline,Cash
+1361,2025-04-18,Tablet,Electronics,North,7,27302,191114,13.9,164549.15,21199.12,New,Online,Cash
+1362,2024-06-18,Mouse,Accessories,West,7,43058,301406,3.37,291248.62,83808.09,New,Online,Debit Card
+1363,2025-03-03,Tablet,Electronics,West,10,40044,400440,16.81,333126.04,48616.1,Regular,Online,UPI
+1364,2025-01-25,Tablet,Electronics,South,7,18364,128548,0.83,127481.05,14461.36,Premium,Offline,Cash
+1365,2024-01-01,Printer,Office Equipment,South,8,8549,68392,4.27,65471.66,18816.88,Premium,Online,Credit Card
+1366,2025-06-19,Camera,Electronics,East,3,19150,57450,12.26,50406.63,13336.89,New,Online,Credit Card
+1367,2024-08-18,Printer,Office Equipment,North,3,46488,139464,4.93,132588.42,36649.57,Regular,Offline,Credit Card
+1368,2024-11-08,Mouse,Accessories,South,9,26823,241407,12.9,210265.5,35087.31,Premium,Online,Cash
+1369,2025-10-23,Smartphone,Electronics,South,6,8771,52626,19.86,42174.48,8534.5,Regular,Online,Cash
+1370,2025-10-30,Monitor,Electronics,South,10,25393,253930,5.1,240979.57,42234.61,Premium,Online,Credit Card
+1371,2025-02-13,Camera,Electronics,North,9,16052,144468,15.85,121569.82,23533.71,Premium,Offline,Debit Card
+1372,2024-09-30,Tablet,Electronics,South,5,13329,66645,13.73,57494.64,16808.25,Regular,Online,Credit Card
+1373,2025-09-13,Printer,Office Equipment,South,4,35634,142536,10.9,126999.58,20100.45,Premium,Online,Debit Card
+1374,2025-12-28,Camera,Electronics,South,8,17740,141920,1.22,140188.58,16656.25,Regular,Offline,Debit Card
+1375,2024-01-08,Smartphone,Electronics,East,1,46665,46665,10.63,41704.51,6270.35,New,Online,UPI
+1376,2024-12-15,Keyboard,Accessories,South,9,43868,394812,14.68,336853.6,74281.94,Premium,Online,Debit Card
+1377,2025-05-14,Tablet,Electronics,East,6,18487,110922,5.45,104876.75,24633.89,Premium,Online,Cash
+1378,2024-10-01,Smartwatch,Wearables,East,2,20386,40772,4.04,39124.81,8156.39,New,Offline,UPI
+1379,2025-09-16,Tablet,Electronics,North,8,26705,213640,1.03,211439.51,34560.57,New,Offline,Credit Card
+1380,2024-04-11,Keyboard,Accessories,East,8,37926,303408,14.66,258928.39,30615.44,Regular,Offline,Debit Card
+1381,2025-11-02,Printer,Office Equipment,North,8,26494,211952,6.72,197708.83,20008.64,New,Offline,Cash
+1382,2024-01-03,Mouse,Accessories,East,4,7995,31980,1.96,31353.19,8314.15,Premium,Offline,Credit Card
+1383,2024-10-05,Headphones,Accessories,South,4,4574,18296,1.67,17990.46,5096.4,Premium,Online,Debit Card
+1384,2025-06-29,Headphones,Accessories,West,2,47005,94010,0.28,93746.77,25562.85,Regular,Offline,UPI
+1385,2024-07-15,Headphones,Accessories,North,10,1536,15360,15.68,12951.55,3369.91,New,Online,UPI
+1386,2025-01-13,Camera,Electronics,East,2,32248,64496,15.27,54647.46,10233.44,New,Online,Cash
+1387,2024-12-20,Mouse,Accessories,West,5,12008,60040,6.6,56077.36,9054.06,Regular,Offline,UPI
+1388,2024-04-11,Smartwatch,Wearables,East,7,29703,207921,19.91,166523.93,27426.38,Regular,Online,Credit Card
+1389,2025-01-24,Camera,Electronics,South,1,30681,30681,8.63,28033.23,3971.55,Regular,Offline,Credit Card
+1390,2025-01-15,Laptop,Electronics,South,7,26788,187516,9.6,169514.46,39738.04,Regular,Offline,UPI
+1391,2024-11-02,Smartwatch,Wearables,East,1,41978,41978,1.48,41356.73,6714.55,Premium,Online,Cash
+1392,2024-11-21,Camera,Electronics,West,5,16276,81380,1.34,80289.51,21728.47,Regular,Offline,Credit Card
+1393,2024-10-12,Tablet,Electronics,North,6,26629,159774,15.01,135791.92,38555.85,Regular,Online,Debit Card
+1394,2025-02-13,Monitor,Electronics,North,9,16546,148914,9.87,134216.19,16007.08,New,Online,Credit Card
+1395,2025-12-25,Keyboard,Accessories,East,7,22137,154959,1.26,153006.52,31400.76,Regular,Offline,Debit Card
+1396,2025-03-18,Keyboard,Accessories,North,10,45195,451950,1.78,443905.29,111292.35,Regular,Online,Debit Card
+1397,2025-07-03,Laptop,Electronics,North,9,24505,220545,3.78,212208.4,43838.69,Premium,Online,Credit Card
+1398,2024-05-22,Camera,Electronics,North,7,6146,43022,16.11,36091.16,5591.06,New,Offline,Cash
+1399,2024-11-02,Monitor,Electronics,East,6,39580,237480,2.31,231994.21,31958.16,Regular,Offline,UPI
+1400,2025-12-01,Monitor,Electronics,South,4,41196,164784,18.54,134233.05,15863.95,New,Online,Credit Card
+1401,2025-12-07,Monitor,Electronics,West,5,34006,170030,3.53,164027.94,20221.12,New,Offline,Cash
+1402,2024-03-04,Tablet,Electronics,South,8,40572,324576,19.47,261381.05,28072.03,New,Offline,UPI
+1403,2025-02-20,Camera,Electronics,East,9,44093,396837,10.29,356002.47,46659.46,New,Online,UPI
+1404,2025-02-16,Headphones,Accessories,East,3,42906,128718,2.93,124946.56,31456.26,Regular,Offline,Debit Card
+1405,2024-12-04,Smartwatch,Wearables,North,10,47498,474980,7.98,437076.6,82398.51,New,Online,Cash
+1406,2025-06-12,Keyboard,Accessories,South,6,30307,181842,5.88,171149.69,36718.45,New,Online,Credit Card
+1407,2025-11-24,Camera,Electronics,South,1,7829,7829,9.94,7050.8,2083.91,New,Online,Credit Card
+1408,2025-10-22,Printer,Office Equipment,North,4,6212,24848,9.43,22504.83,3012.92,Regular,Online,Cash
+1409,2025-01-21,Camera,Electronics,South,10,20571,205710,3.01,199518.13,26132.97,New,Online,Debit Card
+1410,2024-08-30,Keyboard,Accessories,East,1,33672,33672,10.56,30116.24,8779.73,New,Offline,UPI
+1411,2025-11-11,Tablet,Electronics,East,1,18073,18073,18.82,14671.66,2028.91,Premium,Offline,Credit Card
+1412,2025-04-25,Smartwatch,Wearables,West,7,30006,210042,6.93,195486.09,39718.45,New,Online,Credit Card
+1413,2024-06-01,Tablet,Electronics,South,5,27015,135075,10.08,121459.44,34776.49,Premium,Offline,Cash
+1414,2025-03-07,Smartwatch,Wearables,West,5,18493,92465,10.64,82626.72,11168.51,Regular,Offline,UPI
+1415,2024-08-17,Smartphone,Electronics,East,1,21193,21193,9.3,19222.05,4102.65,Regular,Offline,Cash
+1416,2025-12-11,Laptop,Electronics,North,10,17010,170100,13.02,147952.98,16495.44,Premium,Online,Debit Card
+1417,2024-10-01,Keyboard,Accessories,East,9,39562,356058,9.82,321093.1,45264.34,New,Offline,UPI
+1418,2024-02-06,Camera,Electronics,West,4,34434,137736,8.73,125711.65,22674.26,Premium,Offline,Credit Card
+1419,2024-12-24,Printer,Office Equipment,East,9,41826,376434,1.8,369658.19,68679.9,New,Online,Debit Card
+1420,2024-07-11,Smartwatch,Wearables,West,4,29757,119028,4.05,114207.37,30813.86,Premium,Online,Debit Card
+1421,2025-08-19,Mouse,Accessories,North,3,33972,101916,18.83,82725.22,20734.44,Premium,Offline,Debit Card
+1422,2025-02-22,Printer,Office Equipment,West,6,39389,236334,13.17,205208.81,39565.81,New,Offline,UPI
+1423,2024-03-28,Keyboard,Accessories,North,9,4677,42093,1.88,41301.65,6730.35,New,Online,Debit Card
+1424,2024-06-03,Smartwatch,Wearables,East,3,3339,10017,6.62,9353.87,1738.45,New,Offline,Debit Card
+1425,2024-01-13,Camera,Electronics,East,2,37386,74772,3.56,72110.12,18121.06,Premium,Offline,Cash
+1426,2025-05-21,Tablet,Electronics,North,1,38602,38602,19.0,31267.62,8014.24,New,Offline,Debit Card
+1427,2024-08-02,Keyboard,Accessories,West,3,5727,17181,5.25,16279.0,1816.3,Regular,Online,Cash
+1428,2024-07-26,Tablet,Electronics,West,2,6930,13860,11.44,12274.42,2137.58,Premium,Online,Credit Card
+1429,2025-06-08,Printer,Office Equipment,North,2,11309,22618,5.0,21487.1,2726.37,Premium,Online,Cash
+1430,2024-12-31,Monitor,Electronics,South,8,1995,15960,14.51,13644.2,1563.99,Premium,Offline,Credit Card
+1431,2025-06-29,Monitor,Electronics,West,5,10847,54235,5.52,51241.23,8485.75,Premium,Offline,Credit Card
+1432,2024-08-21,Smartwatch,Wearables,East,8,13771,110168,14.39,94314.82,12642.79,Premium,Offline,Credit Card
+1433,2024-12-14,Printer,Office Equipment,South,5,34939,174695,5.66,164807.26,40431.71,Premium,Offline,Cash
+1434,2024-06-10,Headphones,Accessories,North,5,18843,94215,15.11,79979.11,10071.72,New,Offline,UPI
+1435,2024-07-27,Camera,Electronics,North,7,40158,281106,10.81,250718.44,29259.15,New,Online,UPI
+1436,2024-12-16,Tablet,Electronics,North,2,10144,20288,11.7,17914.3,3526.25,New,Online,Debit Card
+1437,2025-01-21,Smartwatch,Wearables,West,6,43621,261726,19.74,210061.29,21220.7,Regular,Online,UPI
+1438,2024-10-24,Keyboard,Accessories,North,9,2100,18900,12.08,16616.88,3074.23,New,Offline,Debit Card
+1439,2025-11-12,Tablet,Electronics,East,4,37145,148580,16.29,124376.32,36589.17,Regular,Online,Cash
+1440,2024-08-09,Smartphone,Electronics,South,5,41869,209345,13.75,180560.06,26617.63,New,Offline,Cash
+1441,2024-02-24,Monitor,Electronics,North,2,33448,66896,4.18,64099.75,18600.03,Premium,Offline,Debit Card
+1442,2024-05-20,Headphones,Accessories,North,9,40579,365211,5.18,346293.07,76407.46,Regular,Offline,Credit Card
+1443,2025-02-13,Camera,Electronics,West,8,38838,310704,9.08,282492.08,61954.75,Premium,Online,Cash
+1444,2025-01-07,Printer,Office Equipment,South,5,8903,44515,10.08,40027.89,8076.77,Regular,Offline,Credit Card
+1445,2025-12-06,Smartphone,Electronics,East,8,10190,81520,9.65,73653.32,16384.03,New,Offline,Credit Card
+1446,2025-07-03,Smartphone,Electronics,South,10,5585,55850,16.09,46863.74,13401.62,Regular,Online,Debit Card
+1447,2025-03-18,Mouse,Accessories,West,10,27106,271060,0.76,268999.94,68551.81,New,Online,Credit Card
+1448,2025-09-19,Tablet,Electronics,North,6,40531,243186,7.06,226017.07,65970.39,Premium,Online,Credit Card
+1449,2024-06-07,Camera,Electronics,North,8,48094,384752,7.98,354048.79,83650.18,New,Online,Cash
+1450,2024-07-26,Printer,Office Equipment,South,8,29983,239864,0.73,238112.99,70923.77,Premium,Offline,Credit Card
+1451,2024-11-21,Laptop,Electronics,West,6,29009,174054,12.11,152976.06,28928.01,Premium,Online,UPI
+1452,2025-10-19,Monitor,Electronics,West,8,40983,327864,1.11,324224.71,82884.57,New,Online,Credit Card
+1453,2025-05-21,Smartphone,Electronics,North,8,12277,98216,15.33,83159.49,14758.07,Premium,Online,Credit Card
+1454,2024-07-11,Tablet,Electronics,South,4,26168,104672,8.14,96151.7,11904.73,Premium,Online,Cash
+1455,2024-04-02,Printer,Office Equipment,South,5,27794,138970,6.2,130353.86,19532.08,Regular,Online,Debit Card
+1456,2025-06-18,Tablet,Electronics,South,6,21901,131406,5.71,123902.72,22749.75,Premium,Online,UPI
+1457,2025-12-02,Laptop,Electronics,West,5,11132,55660,4.67,53060.68,14699.62,Regular,Online,Cash
+1458,2024-04-09,Mouse,Accessories,North,9,33111,297999,19.47,239978.59,36956.62,Regular,Online,Cash
+1459,2024-04-02,Headphones,Accessories,North,6,35317,211902,9.01,192809.63,22315.38,Regular,Offline,Credit Card
+1460,2024-04-01,Mouse,Accessories,West,8,28664,229312,7.96,211058.76,60206.21,Premium,Online,UPI
+1461,2024-07-08,Mouse,Accessories,South,5,49803,249015,0.82,246973.08,43705.2,New,Online,Credit Card
+1462,2025-05-25,Laptop,Electronics,South,1,31123,31123,17.06,25813.42,4332.01,New,Offline,Cash
+1463,2025-10-28,Laptop,Electronics,South,4,38210,152840,8.32,140123.71,25422.5,Regular,Online,Cash
+1464,2024-12-03,Smartphone,Electronics,East,1,44141,44141,7.75,40720.07,7076.3,Regular,Online,Cash
+1465,2025-05-18,Camera,Electronics,South,8,21316,170528,9.82,153782.15,20467.77,Regular,Offline,Debit Card
+1466,2024-02-03,Headphones,Accessories,East,7,36632,256424,19.38,206729.03,49058.49,Regular,Online,Debit Card
+1467,2025-08-03,Printer,Office Equipment,South,4,8108,32432,5.55,30632.02,4336.07,Premium,Online,Credit Card
+1468,2024-01-15,Monitor,Electronics,East,1,42232,42232,18.37,34473.98,5011.94,Premium,Offline,Debit Card
+1469,2025-01-02,Smartphone,Electronics,East,1,24109,24109,4.73,22968.64,4238.88,Premium,Online,Credit Card
+1470,2025-04-29,Monitor,Electronics,North,6,28381,170286,9.08,154824.03,30821.89,Regular,Online,Cash
+1471,2024-05-24,Monitor,Electronics,South,7,13187,92309,8.06,84868.89,22593.12,Regular,Offline,UPI
+1472,2025-03-25,Camera,Electronics,West,8,47975,383800,11.3,340430.6,57282.42,Regular,Online,Cash
+1473,2024-06-13,Laptop,Electronics,East,1,21343,21343,14.51,18246.13,2398.0,New,Online,Credit Card
+1474,2024-11-11,Camera,Electronics,East,6,43861,263166,17.54,217006.68,26008.95,Regular,Online,Debit Card
+1475,2024-01-16,Laptop,Electronics,East,1,24320,24320,17.94,19956.99,5843.4,Premium,Online,Credit Card
+1476,2025-01-05,Smartphone,Electronics,North,6,23594,141564,9.44,128200.36,24545.46,New,Offline,Credit Card
+1477,2024-11-25,Monitor,Electronics,East,8,9751,78008,12.66,68132.19,8970.02,Premium,Online,UPI
+1478,2025-05-13,Keyboard,Accessories,North,7,24849,173943,14.33,149016.97,17502.99,Regular,Offline,Credit Card
+1479,2025-01-07,Smartphone,Electronics,West,9,24471,220239,13.81,189823.99,52270.68,Regular,Offline,Cash
+1480,2025-12-11,Tablet,Electronics,South,1,26975,26975,12.9,23495.22,3695.22,Regular,Offline,UPI
+1481,2024-02-16,Keyboard,Accessories,South,3,48741,146223,14.2,125459.33,33400.82,New,Offline,Debit Card
+1482,2024-11-18,Printer,Office Equipment,East,8,9394,75152,10.07,67584.19,8461.97,Premium,Offline,Debit Card
+1483,2025-06-10,Smartphone,Electronics,East,9,3103,27927,15.62,23564.8,6460.95,Regular,Online,Cash
+1484,2024-01-12,Monitor,Electronics,North,7,29922,209454,12.12,184068.18,19140.56,Regular,Offline,Debit Card
+1485,2024-02-17,Camera,Electronics,South,10,2598,25980,11.13,23088.43,4846.94,Regular,Offline,UPI
+1486,2024-11-01,Smartwatch,Wearables,West,4,23264,93056,12.26,81647.33,11055.35,Regular,Online,Cash
+1487,2025-04-19,Laptop,Electronics,East,4,31657,126628,17.02,105075.91,18314.94,New,Online,Debit Card
+1488,2025-08-25,Camera,Electronics,South,2,5707,11414,4.61,10887.81,2940.98,Regular,Online,UPI
+1489,2025-09-07,Tablet,Electronics,South,3,43884,131652,0.91,130453.97,17659.07,Regular,Offline,Credit Card
+1490,2024-08-13,Mouse,Accessories,West,4,34585,138340,10.15,124298.49,29456.78,Regular,Online,Debit Card
+1491,2024-09-16,Keyboard,Accessories,South,5,10547,52735,13.11,45821.44,5651.13,Premium,Online,Credit Card
+1492,2024-05-06,Smartwatch,Wearables,East,10,20227,202270,12.97,176035.58,28941.3,Regular,Online,Cash
+1493,2025-05-22,Monitor,Electronics,West,9,48165,433485,15.05,368245.51,80986.62,Premium,Offline,Cash
+1494,2024-03-29,Mouse,Accessories,East,1,33534,33534,7.01,31183.27,7826.78,Premium,Offline,Credit Card
+1495,2025-10-03,Printer,Office Equipment,East,10,4886,48860,3.6,47101.04,6869.1,Regular,Offline,Debit Card
+1496,2024-12-08,Camera,Electronics,South,4,43187,172748,18.93,140046.8,23271.59,New,Online,Credit Card
+1497,2024-11-20,Headphones,Accessories,South,4,35951,143804,6.62,134284.18,14954.84,Premium,Online,Debit Card
+1498,2025-09-30,Laptop,Electronics,South,1,26604,26604,16.75,22147.83,4827.11,New,Online,Debit Card
+1499,2025-09-05,Laptop,Electronics,South,4,14036,56144,4.93,53376.1,9885.26,New,Offline,Credit Card
+1500,2025-11-22,Tablet,Electronics,South,2,29005,58010,8.87,52864.51,7875.09,Regular,Online,Debit Card
+1501,2024-08-04,Headphones,Accessories,East,9,7453,67077,9.03,61019.95,16841.12,Regular,Offline,Credit Card
+1502,2025-09-20,Keyboard,Accessories,East,9,22627,203643,11.48,180264.78,38596.1,New,Online,Debit Card
+1503,2025-06-02,Keyboard,Accessories,North,8,44890,359120,11.92,316312.9,47725.09,Premium,Online,Cash
+1504,2024-02-16,Tablet,Electronics,West,9,43109,387981,1.71,381346.52,57057.29,Regular,Online,Debit Card
+1505,2025-07-05,Keyboard,Accessories,East,7,7708,53956,12.07,47443.51,11591.08,New,Online,Cash
+1506,2025-04-17,Mouse,Accessories,North,1,33929,33929,15.77,28578.4,5478.08,New,Online,Cash
+1507,2024-03-07,Headphones,Accessories,North,1,47182,47182,11.92,41557.91,5475.21,Premium,Offline,Cash
+1508,2024-03-04,Mouse,Accessories,East,3,47111,141333,15.22,119822.12,29501.71,Regular,Online,Debit Card
+1509,2024-11-13,Monitor,Electronics,North,3,25605,76815,19.86,61559.54,14409.04,Regular,Offline,Cash
+1510,2024-07-26,Laptop,Electronics,South,10,22798,227980,19.2,184207.84,28661.15,Premium,Online,Cash
+1511,2024-07-08,Printer,Office Equipment,South,10,32447,324470,13.94,279238.88,60658.57,Regular,Online,UPI
+1512,2025-12-08,Headphones,Accessories,North,6,7238,43428,9.18,39441.31,6375.77,Premium,Online,Debit Card
+1513,2024-03-30,Printer,Office Equipment,North,9,45799,412191,19.03,333751.05,90020.05,Regular,Online,Cash
+1514,2024-01-12,Mouse,Accessories,North,5,4198,20990,1.35,20706.64,4291.06,Regular,Online,Credit Card
+1515,2025-04-01,Laptop,Electronics,West,3,35924,107772,10.25,96725.37,24488.81,Premium,Online,Debit Card
+1516,2024-01-03,Camera,Electronics,East,7,28550,199850,11.16,177546.74,30475.59,Regular,Online,Cash
+1517,2025-09-18,Headphones,Accessories,West,1,45114,45114,12.23,39596.56,4537.13,Regular,Offline,Cash
+1518,2024-08-30,Keyboard,Accessories,North,3,30895,92685,7.37,85854.12,24576.59,Regular,Offline,UPI
+1519,2024-08-14,Smartwatch,Wearables,West,4,26842,107368,4.78,102235.81,27802.57,Regular,Offline,UPI
+1520,2024-08-21,Laptop,Electronics,West,9,25456,229104,12.0,201611.52,57212.13,Premium,Offline,UPI
+1521,2024-03-02,Tablet,Electronics,East,6,48488,290928,6.14,273065.02,69382.17,Regular,Offline,UPI
+1522,2024-08-05,Printer,Office Equipment,West,4,37673,150692,10.0,135622.8,35729.79,Premium,Online,Debit Card
+1523,2024-06-02,Camera,Electronics,West,9,17383,156447,8.67,142883.05,19005.97,Regular,Online,Debit Card
+1524,2024-10-15,Mouse,Accessories,West,2,32911,65822,9.58,59516.25,13741.24,New,Online,Debit Card
+1525,2024-09-14,Printer,Office Equipment,South,3,44113,132339,18.07,108425.34,24838.63,Regular,Offline,Debit Card
+1526,2024-03-12,Tablet,Electronics,South,3,25493,76479,7.07,71071.93,19531.07,Premium,Online,UPI
+1527,2024-01-17,Smartwatch,Wearables,West,9,27532,247788,6.74,231087.09,26825.55,Premium,Offline,UPI
+1528,2025-03-16,Laptop,Electronics,East,10,15502,155020,12.06,136324.59,15043.87,New,Online,Cash
+1529,2024-12-23,Camera,Electronics,South,8,37691,301528,2.32,294532.55,76667.74,Premium,Offline,Debit Card
+1530,2024-05-03,Smartwatch,Wearables,West,10,38424,384240,10.66,343280.02,82487.75,Premium,Offline,Debit Card
+1531,2024-11-09,Laptop,Electronics,North,3,45010,135030,8.98,122904.31,29723.0,Regular,Offline,Credit Card
+1532,2024-01-13,Printer,Office Equipment,South,4,15305,61220,1.45,60332.31,9524.24,Regular,Online,Debit Card
+1533,2025-05-25,Monitor,Electronics,South,1,15396,15396,8.7,14056.55,1769.94,Premium,Offline,Cash
+1534,2025-08-12,Monitor,Electronics,West,4,45307,181228,1.91,177766.55,27428.37,Regular,Online,Credit Card
+1535,2024-05-10,Smartphone,Electronics,West,7,21860,153020,3.38,147847.92,19133.33,New,Offline,Cash
+1536,2024-05-05,Monitor,Electronics,West,3,48524,145572,14.34,124696.98,32397.81,Premium,Online,Cash
+1537,2025-06-11,Camera,Electronics,South,9,7579,68211,15.84,57406.38,8616.51,Premium,Online,Credit Card
+1538,2024-03-13,Smartwatch,Wearables,West,6,25388,152328,13.76,131367.67,29968.63,Premium,Online,Cash
+1539,2025-02-15,Tablet,Electronics,South,3,34210,102630,1.76,100823.71,16525.03,Premium,Offline,Credit Card
+1540,2025-02-02,Smartwatch,Wearables,East,5,35264,176320,11.0,156924.8,18391.17,Premium,Offline,Debit Card
+1541,2025-01-11,Smartwatch,Wearables,South,8,7520,60160,8.06,55311.1,11972.3,New,Online,Credit Card
+1542,2024-11-24,Camera,Electronics,South,10,34031,340310,5.6,321252.64,76929.85,Premium,Offline,Cash
+1543,2024-09-24,Printer,Office Equipment,South,7,6612,46284,4.23,44326.19,6462.04,Premium,Offline,Cash
+1544,2024-03-12,Camera,Electronics,South,2,9460,18920,8.82,17251.26,3966.89,Regular,Online,Cash
+1545,2025-08-02,Headphones,Accessories,West,8,846,6768,19.53,5446.21,1333.51,New,Online,Debit Card
+1546,2024-01-24,Mouse,Accessories,South,7,16849,117943,10.43,105641.55,23878.38,New,Offline,Credit Card
+1547,2024-10-28,Printer,Office Equipment,North,10,36068,360680,8.75,329120.5,73253.84,Regular,Offline,UPI
+1548,2024-10-12,Printer,Office Equipment,South,5,11557,57785,9.62,52226.08,11177.15,Regular,Online,UPI
+1549,2025-08-12,Monitor,Electronics,East,9,24987,224883,17.0,186652.89,33985.93,Premium,Offline,Cash
+1550,2024-08-07,Laptop,Electronics,South,9,33979,305811,5.95,287615.25,76334.37,New,Online,Cash
+1551,2025-06-22,Monitor,Electronics,East,5,9860,49300,16.2,41313.4,8312.39,New,Offline,Cash
+1552,2024-05-12,Smartwatch,Wearables,West,6,28446,170676,13.97,146832.56,37642.26,New,Offline,UPI
+1553,2024-05-18,Camera,Electronics,North,1,9967,9967,3.84,9584.27,2423.12,Regular,Online,Debit Card
+1554,2024-07-27,Smartphone,Electronics,East,7,783,5481,5.12,5200.37,1388.11,New,Offline,UPI
+1555,2025-08-12,Tablet,Electronics,South,8,1203,9624,0.46,9579.73,2112.48,Premium,Online,Debit Card
+1556,2024-08-27,Mouse,Accessories,West,10,12602,126020,7.67,116354.27,30714.34,New,Offline,Debit Card
+1557,2024-04-29,Smartphone,Electronics,South,8,8435,67480,16.3,56480.76,15919.82,Premium,Online,Debit Card
+1558,2025-03-07,Camera,Electronics,East,5,32509,162545,8.32,149021.26,39395.52,Premium,Online,Debit Card
+1559,2024-08-08,Monitor,Electronics,East,7,35189,246323,19.57,198117.59,33288.71,Regular,Offline,UPI
+1560,2024-09-04,Laptop,Electronics,South,9,28557,257013,4.24,246115.65,54926.76,New,Online,Debit Card
+1561,2024-12-07,Tablet,Electronics,East,8,3130,25040,11.16,22245.54,2842.51,Regular,Online,Cash
+1562,2025-02-01,Smartwatch,Wearables,East,5,9848,49240,3.96,47290.1,8428.77,New,Offline,UPI
+1563,2025-03-28,Smartphone,Electronics,South,5,37793,188965,1.02,187037.56,18834.0,Premium,Offline,UPI
+1564,2024-01-30,Monitor,Electronics,West,5,25667,128335,19.72,103027.34,19690.11,New,Offline,Debit Card
+1565,2025-11-16,Headphones,Accessories,West,3,46713,140139,19.93,112209.3,26686.44,Regular,Online,Cash
+1566,2024-05-31,Headphones,Accessories,East,7,39403,275821,1.42,271904.34,29307.2,New,Online,Debit Card
+1567,2025-04-22,Tablet,Electronics,North,9,2095,18855,19.54,15170.73,3662.45,Regular,Offline,Cash
+1568,2025-11-19,Tablet,Electronics,South,3,42629,127887,16.11,107284.4,29105.07,New,Online,UPI
+1569,2025-01-25,Camera,Electronics,South,8,11915,95320,10.7,85120.76,10560.77,New,Online,Debit Card
+1570,2025-04-20,Keyboard,Accessories,South,9,40660,365940,4.7,348740.82,88818.83,New,Offline,Debit Card
+1571,2024-09-25,Smartwatch,Wearables,North,6,1229,7374,19.79,5914.69,963.22,Regular,Online,Credit Card
+1572,2024-09-22,Laptop,Electronics,North,4,24675,98700,3.85,94900.05,22596.63,Regular,Online,Debit Card
+1573,2024-07-21,Smartphone,Electronics,East,10,36525,365250,13.77,314955.08,58835.5,Regular,Online,Credit Card
+1574,2024-09-07,Mouse,Accessories,East,7,29910,209370,13.2,181733.16,43132.83,Premium,Offline,Cash
+1575,2024-11-22,Smartphone,Electronics,East,2,38467,76934,11.14,68363.55,14254.93,Premium,Online,Cash
+1576,2025-09-24,Keyboard,Accessories,South,4,44998,179992,18.15,147323.45,40761.99,Premium,Online,Debit Card
+1577,2025-12-12,Smartwatch,Wearables,East,5,39114,195570,18.42,159546.01,38279.44,Regular,Online,UPI
+1578,2024-05-25,Tablet,Electronics,East,4,32739,130956,15.98,110029.23,19452.65,Regular,Offline,Debit Card
+1579,2024-01-18,Headphones,Accessories,East,6,21008,126048,17.31,104229.09,14272.71,New,Online,UPI
+1580,2025-03-08,Smartwatch,Wearables,East,3,5269,15807,10.95,14076.13,1674.86,Regular,Offline,Debit Card
+1581,2024-10-10,Keyboard,Accessories,North,7,33202,232414,13.09,201991.01,31872.25,Regular,Offline,UPI
+1582,2025-10-17,Headphones,Accessories,East,2,5768,11536,2.9,11201.46,2757.95,Premium,Online,Credit Card
+1583,2024-12-25,Tablet,Electronics,West,6,46355,278130,13.26,241249.96,28589.97,Regular,Online,Debit Card
+1584,2025-12-03,Printer,Office Equipment,South,6,28799,172794,1.02,171031.5,17135.42,Regular,Offline,Credit Card
+1585,2024-01-07,Camera,Electronics,East,7,883,6181,3.41,5970.23,1034.25,Premium,Online,UPI
+1586,2024-10-07,Mouse,Accessories,West,8,37384,299072,8.73,272963.01,35853.71,Premium,Online,Cash
+1587,2025-11-27,Camera,Electronics,North,6,36677,220062,15.05,186942.67,37388.86,Regular,Offline,UPI
+1588,2025-12-18,Smartwatch,Wearables,West,5,34636,173180,5.59,163499.24,25525.01,Regular,Offline,UPI
+1589,2024-01-14,Smartphone,Electronics,West,5,7996,39980,18.36,32639.67,6166.61,Regular,Online,Credit Card
+1590,2025-05-09,Printer,Office Equipment,North,7,37574,263018,12.55,230009.24,33428.88,New,Offline,Debit Card
+1591,2024-08-23,Smartphone,Electronics,West,9,25499,229491,6.28,215078.97,56012.64,Premium,Online,UPI
+1592,2025-05-07,Monitor,Electronics,South,6,5782,34692,9.17,31510.74,8186.17,Premium,Online,Cash
+1593,2024-03-12,Tablet,Electronics,North,8,29110,232880,9.32,211175.58,55738.52,Premium,Offline,Cash
+1594,2025-05-13,Camera,Electronics,North,6,32274,193644,9.84,174589.43,43563.11,New,Online,Credit Card
+1595,2024-10-04,Keyboard,Accessories,West,10,40072,400720,2.79,389539.91,88625.37,Regular,Offline,UPI
+1596,2024-07-20,Headphones,Accessories,West,5,1287,6435,16.71,5359.71,706.27,Regular,Online,UPI
+1597,2024-01-10,Smartphone,Electronics,South,4,30861,123444,0.51,122814.44,31422.47,New,Online,Cash
+1598,2024-09-08,Smartphone,Electronics,South,1,15350,15350,9.68,13864.12,1645.68,New,Offline,Cash
+1599,2025-11-17,Tablet,Electronics,South,10,46791,467910,4.23,448117.41,44978.12,Premium,Online,Cash
+1600,2025-09-07,Monitor,Electronics,East,10,48669,486690,1.52,479292.31,69632.2,Premium,Online,UPI
+1601,2025-05-01,Smartphone,Electronics,North,6,7909,47454,13.85,40881.62,5210.98,New,Online,UPI
+1602,2024-11-29,Keyboard,Accessories,North,4,34538,138152,7.13,128301.76,18957.71,Regular,Online,Credit Card
+1603,2025-04-04,Mouse,Accessories,North,7,45831,320817,18.81,260471.32,50378.3,New,Offline,Cash
+1604,2024-12-21,Printer,Office Equipment,South,10,44233,442330,19.96,354040.93,49078.38,Premium,Offline,UPI
+1605,2025-02-18,Tablet,Electronics,North,2,45596,91192,15.47,77084.6,8111.48,Regular,Offline,Cash
+1606,2024-03-29,Monitor,Electronics,East,9,24444,219996,12.87,191682.51,43135.99,Regular,Offline,Debit Card
+1607,2025-04-17,Headphones,Accessories,South,8,11048,88384,7.02,82179.44,18050.69,New,Offline,Debit Card
+1608,2024-07-20,Laptop,Electronics,South,9,46922,422298,6.3,395693.23,107418.36,Regular,Offline,Cash
+1609,2025-02-23,Laptop,Electronics,East,4,36125,144500,0.06,144413.3,36521.6,Premium,Offline,UPI
+1610,2024-08-12,Headphones,Accessories,North,3,8646,25938,6.11,24353.19,3039.73,Premium,Online,UPI
+1611,2025-12-12,Smartwatch,Wearables,South,3,47713,143139,19.83,114754.54,25650.37,Premium,Online,Credit Card
+1612,2024-01-15,Camera,Electronics,West,6,47497,284982,17.32,235623.12,66286.18,New,Online,Credit Card
+1613,2025-11-15,Tablet,Electronics,West,3,26931,80793,13.3,70047.53,7693.02,New,Offline,Credit Card
+1614,2025-08-06,Camera,Electronics,East,3,9108,27324,3.32,26416.84,3051.14,Premium,Offline,Debit Card
+1615,2024-03-03,Camera,Electronics,South,10,13612,136120,10.19,122249.37,34538.3,Premium,Online,Debit Card
+1616,2024-04-12,Laptop,Electronics,South,5,27084,135420,13.47,117178.93,15178.37,Regular,Online,Credit Card
+1617,2024-10-01,Monitor,Electronics,West,9,43910,395190,7.34,366183.05,102639.76,Premium,Offline,UPI
+1618,2025-07-21,Keyboard,Accessories,North,8,26581,212648,12.61,185833.09,29999.57,Regular,Online,UPI
+1619,2024-04-11,Monitor,Electronics,North,1,36771,36771,13.26,31895.17,9486.07,Regular,Offline,UPI
+1620,2024-06-08,Headphones,Accessories,West,6,21516,129096,2.6,125739.5,34453.38,Regular,Online,Debit Card
+1621,2024-01-16,Smartphone,Electronics,West,9,13511,121599,8.63,111105.01,24812.13,Regular,Online,Debit Card
+1622,2024-10-30,Smartphone,Electronics,South,9,27997,251973,2.15,246555.58,53837.56,New,Online,UPI
+1623,2025-06-16,Smartphone,Electronics,North,5,20540,102700,19.9,82262.7,9352.56,Regular,Offline,Credit Card
+1624,2024-02-24,Laptop,Electronics,East,4,3608,14432,17.91,11847.23,2127.42,Premium,Offline,UPI
+1625,2024-04-20,Tablet,Electronics,East,1,21968,21968,16.53,18336.69,2483.81,Premium,Online,Debit Card
+1626,2024-04-18,Printer,Office Equipment,West,6,2540,15240,11.61,13470.64,3807.38,Premium,Offline,UPI
+1627,2024-11-15,Headphones,Accessories,East,7,36629,256403,15.99,215404.16,48987.61,Premium,Offline,Credit Card
+1628,2025-09-26,Printer,Office Equipment,West,5,7790,38950,13.25,33789.12,3542.12,Premium,Online,Debit Card
+1629,2024-02-26,Monitor,Electronics,North,5,19793,98965,18.44,80715.85,12013.53,Regular,Offline,Credit Card
+1630,2025-09-01,Printer,Office Equipment,North,7,40816,285712,12.43,250198.0,55064.06,Regular,Offline,Cash
+1631,2025-01-12,Keyboard,Accessories,East,8,45425,363400,17.91,298315.06,61296.2,Premium,Offline,Credit Card
+1632,2025-07-31,Headphones,Accessories,East,5,40805,204025,17.22,168891.89,39314.32,Regular,Offline,UPI
+1633,2025-03-07,Smartwatch,Wearables,East,9,13182,118638,5.26,112397.64,11690.46,Premium,Offline,UPI
+1634,2025-12-11,Keyboard,Accessories,South,2,13931,27862,10.97,24805.54,5019.56,Premium,Offline,Debit Card
+1635,2024-06-22,Smartwatch,Wearables,West,2,2756,5512,15.53,4655.99,842.62,New,Online,Credit Card
+1636,2024-10-27,Keyboard,Accessories,West,6,32684,196104,8.1,180219.58,26552.77,Regular,Online,Cash
+1637,2025-12-13,Monitor,Electronics,South,2,4956,9912,5.7,9347.02,1471.49,Regular,Online,UPI
+1638,2025-01-19,Mouse,Accessories,South,8,20048,160384,15.16,136069.79,31077.06,New,Offline,Credit Card
+1639,2024-08-28,Keyboard,Accessories,West,5,39776,198880,0.8,197288.96,36157.65,New,Online,Credit Card
+1640,2025-11-11,Printer,Office Equipment,North,3,1022,3066,16.68,2554.59,416.05,Regular,Offline,Credit Card
+1641,2024-06-23,Printer,Office Equipment,West,6,2772,16632,17.11,13786.26,2996.44,Regular,Offline,UPI
+1642,2024-07-13,Laptop,Electronics,South,7,48431,339017,7.04,315150.2,80897.86,Premium,Offline,Debit Card
+1643,2025-10-17,Monitor,Electronics,West,7,43163,302141,10.27,271111.12,41088.31,Regular,Online,UPI
+1644,2025-12-22,Smartphone,Electronics,South,1,2981,2981,12.54,2607.18,516.98,Premium,Offline,Debit Card
+1645,2025-05-01,Monitor,Electronics,South,9,30367,273303,8.64,249689.62,59943.88,New,Online,Cash
+1646,2024-07-27,Smartwatch,Wearables,South,10,8770,87700,4.58,83683.34,24969.14,New,Online,Credit Card
+1647,2024-10-24,Laptop,Electronics,East,1,29434,29434,14.66,25118.98,4384.9,Premium,Online,Credit Card
+1648,2025-09-01,Laptop,Electronics,West,2,3829,7658,1.61,7534.71,974.26,Regular,Online,UPI
+1649,2025-07-28,Headphones,Accessories,North,8,38150,305200,13.17,265005.16,67563.76,New,Offline,Debit Card
+1650,2024-05-30,Laptop,Electronics,North,2,12434,24868,8.94,22644.8,4539.98,New,Offline,UPI
+1651,2025-07-27,Smartphone,Electronics,North,10,9749,97490,8.89,88823.14,16271.51,Premium,Online,UPI
+1652,2025-12-07,Headphones,Accessories,East,4,35499,141996,13.96,122173.36,21810.7,Regular,Offline,Cash
+1653,2024-05-03,Tablet,Electronics,South,1,3892,3892,17.84,3197.67,439.74,Regular,Online,UPI
+1654,2024-05-06,Smartwatch,Wearables,East,4,16412,65648,8.51,60061.36,6402.12,Regular,Offline,UPI
+1655,2024-10-31,Smartwatch,Wearables,East,4,16048,64192,19.4,51738.75,10896.54,Premium,Online,UPI
+1656,2025-11-01,Smartphone,Electronics,East,1,2208,2208,3.78,2124.54,591.75,Regular,Offline,Cash
+1657,2024-01-14,Mouse,Accessories,South,7,40675,284725,14.27,244094.74,63444.86,Premium,Offline,Cash
+1658,2024-04-11,Smartwatch,Wearables,North,3,1020,3060,2.48,2984.11,713.12,Regular,Offline,Cash
+1659,2024-03-28,Tablet,Electronics,South,2,45273,90546,1.17,89486.61,14782.32,Regular,Offline,Credit Card
+1660,2025-09-19,Headphones,Accessories,South,5,39074,195370,1.31,192810.65,38254.17,Premium,Offline,Cash
+1661,2024-10-12,Laptop,Electronics,East,2,46009,92018,10.87,82015.64,20785.99,Regular,Online,Credit Card
+1662,2024-10-29,Monitor,Electronics,West,5,42848,214240,11.28,190073.73,43880.89,New,Offline,Debit Card
+1663,2024-08-08,Smartphone,Electronics,South,4,6141,24564,11.22,21807.92,5506.24,New,Online,UPI
+1664,2024-12-02,Printer,Office Equipment,West,9,7260,65340,17.42,53957.77,6506.88,Regular,Online,Cash
+1665,2024-10-31,Keyboard,Accessories,North,8,29302,234416,17.31,193838.59,21984.74,Regular,Online,UPI
+1666,2024-04-20,Smartwatch,Wearables,South,8,16349,130792,5.06,124173.92,31631.0,Premium,Offline,Debit Card
+1667,2025-08-31,Laptop,Electronics,West,10,15203,152030,11.88,133968.84,21544.05,Regular,Online,Cash
+1668,2025-10-21,Laptop,Electronics,South,10,49592,495920,9.07,450940.06,100823.21,Regular,Offline,Cash
+1669,2025-08-28,Keyboard,Accessories,West,3,3400,10200,1.14,10083.72,2011.3,Premium,Online,Debit Card
+1670,2025-03-25,Tablet,Electronics,West,10,29872,298720,8.18,274284.7,63335.84,New,Offline,UPI
+1671,2024-08-16,Monitor,Electronics,West,10,16060,160600,15.06,136413.64,22878.12,Regular,Offline,Cash
+1672,2025-01-18,Keyboard,Accessories,North,7,41175,288225,5.19,273266.12,36067.21,New,Online,Cash
+1673,2024-02-21,Smartphone,Electronics,East,1,1960,1960,0.81,1944.12,246.27,Regular,Online,Credit Card
+1674,2025-05-12,Monitor,Electronics,South,6,3442,20652,18.79,16771.49,2335.66,Premium,Online,Debit Card
+1675,2025-02-06,Tablet,Electronics,West,9,6905,62145,15.02,52810.82,5899.07,Regular,Offline,Cash
+1676,2024-09-19,Tablet,Electronics,South,5,47815,239075,11.88,210672.89,59733.41,New,Offline,Credit Card
+1677,2025-03-15,Tablet,Electronics,South,9,37188,334692,2.38,326726.33,35506.69,Premium,Online,UPI
+1678,2025-09-09,Smartwatch,Wearables,North,2,17225,34450,5.49,32558.7,8163.06,Regular,Online,UPI
+1679,2025-07-06,Tablet,Electronics,South,6,25009,150054,10.59,134163.28,16651.8,Premium,Offline,UPI
+1680,2025-10-22,Headphones,Accessories,North,9,44505,400545,2.09,392173.61,97262.6,New,Offline,Debit Card
+1681,2025-10-16,Smartwatch,Wearables,East,8,23590,188720,4.74,179774.67,49252.06,Regular,Offline,Debit Card
+1682,2025-03-19,Tablet,Electronics,South,9,15486,139374,9.54,126077.72,31990.38,Premium,Online,UPI
+1683,2024-04-23,Smartphone,Electronics,West,8,31930,255440,12.09,224557.3,30867.65,New,Offline,Debit Card
+1684,2024-02-20,Monitor,Electronics,North,6,1421,8526,3.28,8246.35,1360.41,New,Online,Debit Card
+1685,2025-09-02,Smartwatch,Wearables,East,6,38514,231084,3.51,222972.95,40026.38,Premium,Online,UPI
+1686,2024-02-20,Keyboard,Accessories,North,5,11765,58825,10.22,52813.08,5986.85,Premium,Offline,Cash
+1687,2024-08-15,Smartwatch,Wearables,East,3,23804,71412,7.76,65870.43,15072.97,New,Offline,Cash
+1688,2025-02-13,Smartphone,Electronics,North,10,42299,422990,12.67,369397.17,101368.58,Regular,Offline,Debit Card
+1689,2024-03-05,Mouse,Accessories,South,8,19636,157088,18.4,128183.81,21436.36,Regular,Offline,UPI
+1690,2025-01-04,Camera,Electronics,South,8,35016,280128,10.31,251246.8,26235.88,New,Offline,Debit Card
+1691,2024-04-02,Mouse,Accessories,North,7,20625,144375,6.32,135250.5,24987.22,Premium,Offline,UPI
+1692,2025-04-20,Laptop,Electronics,West,1,33190,33190,7.56,30680.84,4716.23,New,Offline,Cash
+1693,2025-12-13,Laptop,Electronics,North,10,2420,24200,14.67,20649.86,3921.78,New,Offline,UPI
+1694,2025-10-13,Laptop,Electronics,West,8,7029,56232,8.34,51542.25,15379.16,Regular,Online,Debit Card
+1695,2025-05-09,Smartwatch,Wearables,West,10,39326,393260,10.05,353737.37,86408.71,Premium,Offline,UPI
+1696,2024-02-06,Smartphone,Electronics,South,8,23401,187208,2.05,183370.24,19299.76,Premium,Online,Debit Card
+1697,2025-01-28,Monitor,Electronics,East,10,44270,442700,1.66,435351.18,120918.92,Regular,Online,Debit Card
+1698,2025-08-20,Camera,Electronics,West,7,29705,207935,19.66,167054.98,48076.41,Premium,Online,UPI
+1699,2025-08-18,Smartwatch,Wearables,South,8,23543,188344,1.61,185311.66,31550.23,Regular,Offline,Debit Card
+1700,2025-05-09,Laptop,Electronics,East,9,42568,383112,2.56,373304.33,68516.02,New,Online,Cash
+1701,2024-07-16,Keyboard,Accessories,West,8,34107,272856,9.65,246525.4,49811.62,Regular,Offline,UPI
+1702,2024-04-17,Smartwatch,Wearables,South,2,20938,41876,2.59,40791.41,7853.23,Regular,Online,UPI
+1703,2025-11-20,Smartphone,Electronics,South,1,35151,35151,0.17,35091.24,7855.19,New,Online,Debit Card
+1704,2024-04-07,Tablet,Electronics,South,3,17914,53742,5.07,51017.28,13712.61,Premium,Offline,UPI
+1705,2024-06-05,Keyboard,Accessories,South,9,23502,211518,18.57,172239.11,39937.65,Premium,Online,Credit Card
+1706,2025-10-05,Monitor,Electronics,East,9,38952,350568,14.16,300927.57,51062.09,New,Online,Debit Card
+1707,2025-09-04,Headphones,Accessories,West,5,23964,119820,16.04,100600.87,14863.27,Regular,Online,UPI
+1708,2024-05-25,Tablet,Electronics,North,9,41361,372249,14.92,316709.45,72673.97,New,Online,Debit Card
+1709,2024-07-19,Printer,Office Equipment,South,4,21043,84172,4.34,80518.94,15946.15,New,Offline,Credit Card
+1710,2025-09-05,Tablet,Electronics,West,10,25968,259680,3.71,250045.87,41569.95,New,Offline,Cash
+1711,2025-03-19,Headphones,Accessories,West,9,27169,244521,3.72,235424.82,63399.39,Premium,Offline,Cash
+1712,2024-06-01,Monitor,Electronics,West,1,26592,26592,3.71,25605.44,5595.75,Regular,Offline,Cash
+1713,2025-09-09,Keyboard,Accessories,North,1,47245,47245,1.0,46772.55,4866.84,New,Online,Cash
+1714,2024-05-04,Smartphone,Electronics,West,1,40813,40813,6.1,38323.41,4636.01,Regular,Offline,Debit Card
+1715,2024-01-26,Monitor,Electronics,East,6,36478,218868,6.92,203722.33,35946.87,New,Online,UPI
+1716,2024-06-04,Monitor,Electronics,East,2,3821,7642,7.99,7031.4,1377.42,New,Online,Credit Card
+1717,2025-11-29,Tablet,Electronics,North,6,44532,267192,17.99,219124.16,60834.84,Regular,Online,Debit Card
+1718,2024-02-09,Headphones,Accessories,East,5,46127,230635,8.16,211815.18,54318.15,Premium,Offline,Debit Card
+1719,2024-04-18,Smartphone,Electronics,West,3,42712,128136,0.48,127520.95,23670.57,Premium,Online,UPI
+1720,2025-08-20,Laptop,Electronics,North,4,26971,107884,16.99,89554.51,12012.75,New,Online,Credit Card
+1721,2025-01-09,Headphones,Accessories,West,5,19461,97305,15.51,82212.99,18548.84,New,Online,Cash
+1722,2024-01-18,Monitor,Electronics,West,4,42259,169036,6.78,157575.36,45177.31,Regular,Online,UPI
+1723,2024-01-27,Smartphone,Electronics,South,9,41973,377757,10.08,339679.09,99589.75,New,Offline,UPI
+1724,2024-05-20,Mouse,Accessories,South,7,17615,123305,16.0,103576.2,16878.14,Premium,Offline,Cash
+1725,2025-04-25,Printer,Office Equipment,South,7,45596,319172,12.52,279211.67,32722.62,New,Online,Credit Card
+1726,2025-12-23,Camera,Electronics,North,5,29570,147850,5.81,139259.92,30133.87,Regular,Offline,Debit Card
+1727,2024-10-01,Smartphone,Electronics,South,3,30275,90825,5.11,86183.84,14155.55,Premium,Offline,Debit Card
+1728,2025-07-20,Printer,Office Equipment,West,6,21290,127740,15.55,107876.43,11747.57,Regular,Offline,Debit Card
+1729,2025-07-19,Printer,Office Equipment,West,6,19355,116130,8.18,106630.57,22215.47,Regular,Offline,Cash
+1730,2025-12-24,Monitor,Electronics,East,2,17760,35520,16.13,29790.62,8588.03,Regular,Online,Debit Card
+1731,2024-01-11,Mouse,Accessories,East,5,38346,191730,6.04,180149.51,42710.37,New,Offline,UPI
+1732,2024-02-20,Printer,Office Equipment,West,10,41805,418050,12.8,364539.6,95606.92,Premium,Offline,UPI
+1733,2024-10-14,Smartwatch,Wearables,North,8,32547,260376,7.89,239832.33,26796.21,Regular,Offline,Credit Card
+1734,2025-02-28,Headphones,Accessories,South,3,17812,53436,19.57,42978.57,8923.27,Regular,Online,Cash
+1735,2024-01-12,Tablet,Electronics,North,4,28896,115584,14.76,98523.8,14530.55,Regular,Offline,UPI
+1736,2024-11-14,Mouse,Accessories,South,6,13541,81246,12.24,71301.49,16669.58,New,Offline,Cash
+1737,2025-11-14,Smartwatch,Wearables,West,3,36041,108123,8.97,98424.37,17006.84,Regular,Online,Debit Card
+1738,2024-04-19,Headphones,Accessories,North,8,14754,118032,12.37,103431.44,12843.84,New,Offline,Cash
+1739,2025-05-30,Headphones,Accessories,East,10,31388,313880,18.8,254870.56,49298.82,New,Offline,Cash
+1740,2025-02-11,Smartphone,Electronics,South,6,10193,61158,5.19,57983.9,6914.19,New,Offline,Credit Card
+1741,2024-08-06,Mouse,Accessories,North,4,45895,183580,18.61,149415.76,17445.37,Premium,Online,UPI
+1742,2024-06-27,Monitor,Electronics,North,2,22781,45562,4.46,43529.93,7681.59,Regular,Online,Cash
+1743,2025-09-26,Printer,Office Equipment,North,7,34215,239505,12.96,208465.15,21032.56,Regular,Offline,Debit Card
+1744,2024-06-25,Keyboard,Accessories,South,5,24857,124285,4.45,118754.32,32296.99,New,Online,Cash
+1745,2024-06-14,Camera,Electronics,East,1,22439,22439,0.81,22257.24,3616.29,New,Online,Credit Card
+1746,2024-06-24,Monitor,Electronics,East,7,7661,53627,14.0,46119.22,12087.52,New,Online,Cash
+1747,2025-08-31,Smartwatch,Wearables,West,4,12796,51184,17.36,42298.46,8108.55,Premium,Online,Debit Card
+1748,2024-02-19,Laptop,Electronics,East,7,48299,338093,15.22,286635.25,74974.0,Premium,Online,Debit Card
+1749,2025-12-18,Monitor,Electronics,East,2,26184,52368,13.74,45172.64,6435.87,Regular,Offline,UPI
+1750,2025-03-03,Keyboard,Accessories,East,4,22149,88596,17.47,73118.28,19917.56,Regular,Online,UPI
+1751,2025-12-16,Smartwatch,Wearables,North,10,31191,311910,11.49,276071.54,37502.24,New,Offline,Credit Card
+1752,2024-06-16,Camera,Electronics,North,1,43360,43360,6.2,40671.68,5683.72,Regular,Online,UPI
+1753,2024-06-15,Camera,Electronics,West,10,4269,42690,6.43,39945.03,10994.8,Premium,Online,Credit Card
+1754,2025-08-01,Keyboard,Accessories,South,10,11368,113680,3.87,109280.58,16078.62,Regular,Offline,UPI
+1755,2025-05-02,Laptop,Electronics,North,10,5862,58620,12.86,51081.47,6185.06,Premium,Online,Debit Card
+1756,2024-04-08,Tablet,Electronics,East,8,38018,304144,13.9,261867.98,60501.21,Regular,Offline,Debit Card
+1757,2025-09-04,Printer,Office Equipment,North,1,38109,38109,5.36,36066.36,9637.29,Regular,Offline,Cash
+1758,2024-08-21,Laptop,Electronics,East,6,29054,174324,12.5,152533.5,23291.26,Premium,Offline,UPI
+1759,2024-10-26,Tablet,Electronics,South,5,46543,232715,13.44,201438.1,58259.24,Regular,Offline,UPI
+1760,2025-03-10,Smartwatch,Wearables,West,8,2213,17704,7.57,16363.81,4585.01,New,Online,Debit Card
+1761,2024-06-11,Mouse,Accessories,East,9,36433,327897,18.48,267301.63,75227.74,Regular,Offline,Cash
+1762,2025-07-12,Mouse,Accessories,South,7,17758,124306,19.74,99768.0,29602.26,Regular,Offline,Debit Card
+1763,2025-08-15,Camera,Electronics,South,2,851,1702,1.15,1682.43,504.5,Regular,Offline,Debit Card
+1764,2024-04-22,Monitor,Electronics,South,10,17482,174820,3.7,168351.66,34713.46,Regular,Offline,Credit Card
+1765,2024-03-13,Smartwatch,Wearables,South,10,3125,31250,1.55,30765.62,6714.79,Regular,Online,Cash
+1766,2024-11-13,Monitor,Electronics,East,9,43254,389286,5.27,368770.63,85307.91,Premium,Online,Cash
+1767,2024-09-13,Smartphone,Electronics,East,10,27219,272190,8.61,248754.44,32722.3,Regular,Offline,Cash
+1768,2025-04-12,Laptop,Electronics,North,1,40595,40595,4.2,38890.01,6028.03,Regular,Online,Credit Card
+1769,2025-04-02,Printer,Office Equipment,South,1,10830,10830,13.26,9393.94,2506.2,Premium,Online,Debit Card
+1770,2024-12-23,Laptop,Electronics,West,1,12550,12550,4.73,11956.39,2356.37,Regular,Online,Debit Card
+1771,2024-04-04,Printer,Office Equipment,West,3,5859,17577,11.37,15578.5,2117.39,Regular,Online,Cash
+1772,2025-06-11,Monitor,Electronics,West,7,27891,195237,10.84,174073.31,40546.52,Premium,Online,UPI
+1773,2025-12-14,Laptop,Electronics,South,4,4433,17732,19.74,14231.7,3784.57,New,Online,Debit Card
+1774,2024-12-07,Headphones,Accessories,West,9,7484,67356,6.56,62937.45,15954.02,New,Offline,Cash
+1775,2025-09-07,Tablet,Electronics,South,3,5410,16230,12.7,14168.79,2705.03,Premium,Online,Debit Card
+1776,2024-05-05,Smartwatch,Wearables,North,2,33237,66474,16.19,55711.86,10344.12,New,Online,UPI
+1777,2024-02-23,Tablet,Electronics,South,9,22915,206235,5.15,195613.9,44611.19,Regular,Online,Cash
+1778,2025-05-27,Mouse,Accessories,East,2,16519,33038,10.69,29506.24,8261.44,Regular,Offline,Cash
+1779,2024-03-08,Monitor,Electronics,South,1,39286,39286,11.11,34921.33,4564.78,Premium,Offline,Credit Card
+1780,2025-07-04,Mouse,Accessories,South,2,5925,11850,2.62,11539.53,2527.5,New,Offline,Credit Card
+1781,2024-06-10,Printer,Office Equipment,North,4,15299,61196,16.4,51159.86,12046.63,Regular,Online,Credit Card
+1782,2024-11-07,Mouse,Accessories,East,7,27938,195566,13.72,168734.34,49701.72,New,Offline,UPI
+1783,2024-02-14,Camera,Electronics,East,6,47049,282294,14.55,241220.22,40232.71,Regular,Offline,Cash
+1784,2024-02-23,Smartphone,Electronics,South,1,28108,28108,0.77,27891.57,7084.35,New,Offline,Cash
+1785,2024-07-07,Smartphone,Electronics,North,8,30756,246048,10.42,220409.8,41881.78,Regular,Online,Debit Card
+1786,2024-05-29,Mouse,Accessories,North,8,44693,357544,8.79,326115.88,42410.87,Regular,Online,Cash
+1787,2024-10-22,Laptop,Electronics,East,8,6585,52680,19.72,42291.5,11578.46,Regular,Online,Credit Card
+1788,2024-01-15,Printer,Office Equipment,East,10,32727,327270,13.8,282106.74,32969.36,New,Online,Debit Card
+1789,2025-01-13,Smartphone,Electronics,East,2,27133,54266,6.31,50841.82,6112.68,Premium,Offline,Cash
+1790,2024-05-27,Headphones,Accessories,North,3,13388,40164,9.25,36448.83,8857.85,Regular,Offline,Cash
+1791,2024-08-22,Keyboard,Accessories,North,3,29200,87600,5.24,83009.76,19726.62,New,Online,UPI
+1792,2024-11-21,Mouse,Accessories,North,2,32718,65436,13.39,56674.12,8833.86,Premium,Online,UPI
+1793,2024-04-10,Keyboard,Accessories,North,9,19919,179271,3.1,173713.6,33989.44,New,Online,Cash
+1794,2024-10-13,Printer,Office Equipment,East,4,47049,188196,11.99,165631.3,37422.04,Premium,Offline,Debit Card
+1795,2025-04-12,Smartphone,Electronics,North,4,15360,61440,9.43,55646.21,15070.34,Regular,Online,UPI
+1796,2025-09-24,Laptop,Electronics,South,10,28986,289860,11.7,255946.38,74809.6,New,Online,UPI
+1797,2025-08-02,Camera,Electronics,West,2,22591,45182,0.88,44784.4,6292.07,Regular,Offline,Credit Card
+1798,2025-03-01,Headphones,Accessories,South,10,8244,82440,10.93,73429.31,11249.08,Premium,Offline,Credit Card
+1799,2024-05-05,Smartphone,Electronics,North,2,2768,5536,5.71,5219.89,522.92,Premium,Offline,Debit Card
+1800,2025-09-17,Smartwatch,Wearables,South,5,25975,129875,8.5,118835.62,20862.12,Regular,Offline,Debit Card
+1801,2025-10-02,Tablet,Electronics,North,8,13519,108152,14.72,92232.03,18585.0,Regular,Online,Cash
+1802,2025-02-07,Headphones,Accessories,West,10,5961,59610,18.52,48570.23,8305.88,Regular,Offline,UPI
+1803,2025-03-13,Laptop,Electronics,South,3,29963,89889,8.85,81933.82,8986.27,Regular,Offline,UPI
+1804,2025-12-23,Smartphone,Electronics,South,5,12226,61130,15.11,51893.26,12986.39,Premium,Offline,Credit Card
+1805,2024-03-02,Printer,Office Equipment,North,6,2390,14340,9.51,12976.27,3264.78,New,Offline,Credit Card
+1806,2024-09-05,Printer,Office Equipment,West,6,24117,144702,11.33,128307.26,33848.63,Premium,Online,Debit Card
+1807,2024-02-03,Smartwatch,Wearables,West,9,17019,153171,1.3,151179.78,23663.6,New,Offline,Credit Card
+1808,2024-03-06,Tablet,Electronics,North,8,28299,226392,12.27,198613.7,26869.26,Regular,Online,Debit Card
+1809,2024-10-20,Tablet,Electronics,East,7,17696,123872,15.85,104238.29,25739.98,Regular,Online,Credit Card
+1810,2024-05-11,Mouse,Accessories,East,2,31531,63062,15.61,53218.02,13538.47,New,Offline,Credit Card
+1811,2024-11-29,Camera,Electronics,South,2,36478,72956,15.67,61523.79,10062.38,Premium,Online,Credit Card
+1812,2025-06-04,Monitor,Electronics,North,1,970,970,18.7,788.61,181.61,Regular,Online,Credit Card
+1813,2024-10-22,Headphones,Accessories,North,1,43487,43487,18.04,35641.95,6422.09,Regular,Online,Credit Card
+1814,2024-12-02,Headphones,Accessories,South,8,8685,69480,2.36,67840.27,12827.3,Regular,Online,UPI
+1815,2025-10-08,Tablet,Electronics,East,10,32672,326720,16.13,274020.06,63176.86,New,Online,Cash
+1816,2024-01-19,Tablet,Electronics,South,9,49115,442035,6.6,412860.69,77108.25,Premium,Offline,Debit Card
+1817,2025-01-14,Printer,Office Equipment,North,6,24709,148254,11.22,131619.9,38465.24,Premium,Offline,Credit Card
+1818,2024-06-06,Monitor,Electronics,South,8,27014,216112,15.45,182722.7,22632.77,New,Online,Credit Card
+1819,2024-01-15,Smartphone,Electronics,West,3,27771,83313,13.69,71907.45,17218.17,New,Online,Credit Card
+1820,2025-01-22,Smartwatch,Wearables,South,3,11567,34701,6.41,32476.67,5638.23,Premium,Online,UPI
+1821,2025-07-07,Printer,Office Equipment,North,2,26139,52278,9.67,47222.72,8027.8,New,Online,UPI
+1822,2024-03-28,Headphones,Accessories,East,6,33900,203400,2.57,198172.62,26632.07,New,Online,Debit Card
+1823,2025-08-29,Smartwatch,Wearables,East,7,21854,152978,4.02,146828.28,22694.42,Regular,Offline,Cash
+1824,2024-08-01,Smartphone,Electronics,East,2,10602,21204,9.74,19138.73,5229.06,Regular,Offline,Credit Card
+1825,2024-12-14,Monitor,Electronics,South,4,2422,9688,19.54,7794.96,1076.6,Premium,Offline,UPI
+1826,2025-10-27,Laptop,Electronics,North,1,24523,24523,5.72,23120.28,6233.97,Premium,Offline,Credit Card
+1827,2024-04-26,Smartphone,Electronics,West,1,7482,7482,15.78,6301.34,1411.59,Regular,Offline,Debit Card
+1828,2024-10-14,Smartwatch,Wearables,North,3,26124,78372,3.63,75527.1,14059.56,New,Offline,Cash
+1829,2024-01-29,Smartphone,Electronics,East,9,35791,322119,10.4,288618.62,58866.56,New,Offline,Credit Card
+1830,2025-10-17,Headphones,Accessories,North,2,35902,71804,18.19,58742.85,13541.4,Regular,Online,UPI
+1831,2024-11-08,Headphones,Accessories,North,4,6814,27256,8.86,24841.12,3840.59,Regular,Online,Debit Card
+1832,2025-06-30,Headphones,Accessories,North,9,47979,431811,12.19,379173.24,41459.05,New,Offline,UPI
+1833,2024-03-07,Smartwatch,Wearables,South,5,811,4055,5.67,3825.08,1096.15,Regular,Offline,UPI
+1834,2025-05-25,Smartphone,Electronics,East,3,24948,74844,3.09,72531.32,9506.3,New,Online,Debit Card
+1835,2024-09-13,Smartwatch,Wearables,West,7,23799,166593,4.05,159845.98,30802.74,Regular,Offline,Credit Card
+1836,2025-04-23,Mouse,Accessories,West,4,47204,188816,9.95,170028.81,38319.71,New,Offline,Cash
+1837,2024-05-21,Camera,Electronics,North,3,45218,135654,11.29,120338.66,23848.52,Regular,Online,Cash
+1838,2025-05-05,Laptop,Electronics,North,8,37850,302800,3.37,292595.64,60941.87,Premium,Offline,Cash
+1839,2024-06-21,Laptop,Electronics,West,10,15837,158370,5.64,149437.93,30639.51,Premium,Online,Cash
+1840,2025-09-03,Smartwatch,Wearables,North,10,39726,397260,17.03,329606.62,92960.99,Regular,Offline,Credit Card
+1841,2025-12-03,Printer,Office Equipment,West,6,11881,71286,4.75,67899.92,11818.27,New,Online,Cash
+1842,2024-10-09,Smartwatch,Wearables,South,3,23514,70542,4.52,67353.5,7887.41,Premium,Offline,UPI
+1843,2024-12-14,Keyboard,Accessories,North,5,18453,92265,9.93,83103.09,24243.65,Premium,Offline,UPI
+1844,2024-10-20,Smartphone,Electronics,West,3,8913,26739,16.87,22228.13,3585.2,Premium,Online,Cash
+1845,2025-07-08,Printer,Office Equipment,North,9,33109,297981,19.79,239010.56,50346.74,Premium,Online,Credit Card
+1846,2024-02-13,Printer,Office Equipment,North,10,8530,85300,14.41,73008.27,12674.85,Regular,Offline,Cash
+1847,2024-09-24,Tablet,Electronics,East,10,34566,345660,12.71,301726.61,78539.16,New,Offline,Debit Card
+1848,2025-12-03,Tablet,Electronics,East,2,12170,24340,1.22,24043.05,4764.77,New,Online,Debit Card
+1849,2025-03-20,Printer,Office Equipment,East,1,44921,44921,11.93,39561.92,8914.56,Regular,Online,Cash
+1850,2024-05-20,Camera,Electronics,South,1,39831,39831,18.67,32394.55,4527.39,Premium,Offline,Credit Card
+1851,2024-07-07,Smartphone,Electronics,North,2,16329,32658,15.29,27664.59,6067.96,Regular,Online,Debit Card
+1852,2025-07-24,Laptop,Electronics,North,5,9762,48810,19.28,39399.43,10579.23,Premium,Online,Credit Card
+1853,2025-03-18,Laptop,Electronics,North,9,21209,190881,14.31,163565.93,29194.77,Regular,Offline,Cash
+1854,2024-12-22,Printer,Office Equipment,West,5,46330,231650,17.05,192153.68,57457.78,Premium,Offline,Debit Card
+1855,2024-02-26,Tablet,Electronics,East,7,2057,14399,18.7,11706.39,2900.91,New,Online,Debit Card
+1856,2025-06-22,Laptop,Electronics,West,5,38753,193765,19.25,156465.24,36172.54,New,Offline,UPI
+1857,2025-07-08,Tablet,Electronics,South,3,18028,54084,17.62,44554.4,10403.57,New,Offline,Cash
+1858,2025-05-28,Laptop,Electronics,North,1,27405,27405,19.65,22019.92,4898.99,Premium,Offline,Credit Card
+1859,2024-12-01,Printer,Office Equipment,North,5,8130,40650,9.22,36902.07,10807.67,New,Online,Debit Card
+1860,2025-12-13,Mouse,Accessories,West,2,44787,89574,7.64,82730.55,14554.55,Regular,Online,Credit Card
+1861,2024-03-26,Laptop,Electronics,East,4,16321,65284,14.0,56144.24,6555.36,Regular,Online,Cash
+1862,2024-05-09,Laptop,Electronics,East,1,6542,6542,15.6,5521.45,1264.77,Premium,Online,Credit Card
+1863,2024-01-26,Laptop,Electronics,West,6,42107,252642,8.74,230561.09,59229.45,Regular,Online,Debit Card
+1864,2024-05-24,Camera,Electronics,North,6,34536,207216,3.81,199321.07,24576.95,Premium,Online,Debit Card
+1865,2025-02-28,Camera,Electronics,East,5,32300,161500,13.17,140230.45,28571.48,New,Offline,Cash
+1866,2025-04-12,Mouse,Accessories,West,6,13098,78588,14.25,67389.21,15388.44,Regular,Online,Debit Card
+1867,2024-09-20,Camera,Electronics,North,5,18595,92975,3.64,89590.71,21823.03,New,Online,UPI
+1868,2024-07-22,Laptop,Electronics,West,2,24571,49142,12.92,42792.85,6310.35,Premium,Online,Credit Card
+1869,2024-12-05,Smartphone,Electronics,South,6,4119,24714,7.46,22870.34,2981.29,New,Online,Credit Card
+1870,2025-07-17,Monitor,Electronics,West,6,42567,255402,5.69,240869.63,29658.36,Premium,Online,Debit Card
+1871,2024-09-26,Camera,Electronics,North,1,38506,38506,13.15,33442.46,9802.43,Premium,Online,UPI
+1872,2024-01-21,Tablet,Electronics,East,9,3640,32760,13.96,28186.7,8398.37,New,Offline,UPI
+1873,2025-01-01,Printer,Office Equipment,East,1,523,523,12.57,457.26,95.51,Premium,Online,Debit Card
+1874,2025-06-11,Mouse,Accessories,West,8,49627,397016,16.86,330079.1,34606.44,Regular,Online,Credit Card
+1875,2025-03-01,Camera,Electronics,North,6,7788,46728,8.03,42975.74,11230.12,New,Offline,Cash
+1876,2025-06-01,Headphones,Accessories,West,8,49240,393920,1.42,388326.34,54224.12,Regular,Offline,Credit Card
+1877,2025-08-13,Keyboard,Accessories,West,5,47869,239345,4.14,229436.12,55846.99,New,Offline,UPI
+1878,2024-02-12,Monitor,Electronics,West,8,8012,64096,6.82,59724.65,12574.78,New,Offline,UPI
+1879,2025-09-10,Monitor,Electronics,South,1,31296,31296,17.23,25903.7,4557.06,Premium,Online,Credit Card
+1880,2024-11-30,Printer,Office Equipment,West,6,27522,165132,13.56,142740.1,30744.59,New,Online,Cash
+1881,2024-01-28,Smartphone,Electronics,West,2,41487,82974,11.08,73780.48,15787.06,Premium,Online,Cash
+1882,2025-08-24,Monitor,Electronics,West,3,15006,45018,8.03,41403.05,11844.17,Regular,Online,Credit Card
+1883,2025-08-23,Keyboard,Accessories,East,4,45059,180236,8.05,165727.0,35181.8,Premium,Online,Cash
+1884,2025-10-27,Printer,Office Equipment,North,5,46301,231505,14.79,197265.41,55966.13,New,Offline,Credit Card
+1885,2024-04-05,Laptop,Electronics,West,5,34602,173010,16.29,144826.67,14608.69,Premium,Offline,Debit Card
+1886,2024-04-06,Printer,Office Equipment,South,6,23597,141582,14.75,120698.65,25892.71,Regular,Online,Cash
+1887,2024-12-21,Headphones,Accessories,East,9,33308,299772,11.33,265807.83,51345.73,New,Online,Cash
+1888,2024-10-22,Tablet,Electronics,West,4,18505,74020,10.87,65974.03,15900.97,New,Offline,Cash
+1889,2024-10-25,Camera,Electronics,West,9,49113,442017,6.82,411871.44,41495.67,Premium,Offline,Cash
+1890,2024-06-12,Smartphone,Electronics,North,7,10384,72688,5.19,68915.49,7611.64,New,Offline,UPI
+1891,2024-06-22,Smartphone,Electronics,East,3,18224,54672,2.2,53469.22,8277.79,Regular,Offline,Debit Card
+1892,2025-09-12,Smartphone,Electronics,South,4,43282,173128,1.79,170029.01,23310.11,Regular,Online,UPI
+1893,2025-04-01,Monitor,Electronics,South,1,30356,30356,2.12,29712.45,5159.89,Premium,Online,Credit Card
+1894,2025-12-20,Smartphone,Electronics,West,10,2661,26610,19.81,21338.56,6100.28,Premium,Online,Credit Card
+1895,2024-12-20,Mouse,Accessories,South,3,42650,127950,10.85,114067.42,32916.59,New,Offline,Cash
+1896,2024-02-11,Mouse,Accessories,East,6,30405,182430,2.44,177978.71,38282.11,Regular,Online,Cash
+1897,2024-12-07,Monitor,Electronics,East,8,20887,167096,12.68,145908.23,22927.06,Premium,Online,UPI
+1898,2024-02-15,Mouse,Accessories,West,1,7470,7470,9.15,6786.49,1556.01,Premium,Offline,Cash
+1899,2025-10-07,Mouse,Accessories,East,7,38700,270900,8.74,247223.34,41695.06,Regular,Online,Credit Card
+1900,2025-01-21,Tablet,Electronics,South,10,28251,282510,6.01,265531.15,54945.98,Regular,Online,UPI
+1901,2024-11-02,Camera,Electronics,West,3,2050,6150,16.38,5142.63,611.16,Regular,Offline,Cash
+1902,2025-07-15,Keyboard,Accessories,East,3,9270,27810,8.72,25384.97,3578.82,Premium,Online,UPI
+1903,2024-10-29,Keyboard,Accessories,West,5,7865,39325,16.01,33029.07,8341.97,New,Online,Debit Card
+1904,2024-09-01,Mouse,Accessories,South,3,5098,15294,7.38,14165.3,3741.41,Premium,Offline,UPI
+1905,2024-12-05,Camera,Electronics,East,10,10252,102520,0.61,101894.63,11478.67,Regular,Online,Cash
+1906,2024-11-15,Printer,Office Equipment,West,5,49514,247570,10.16,222416.89,57543.53,Premium,Offline,Debit Card
+1907,2025-02-21,Smartphone,Electronics,North,5,16051,80255,8.79,73200.59,19194.56,Regular,Online,UPI
+1908,2025-05-18,Keyboard,Accessories,West,10,10742,107420,14.41,91940.78,27367.2,Regular,Offline,Credit Card
+1909,2024-10-23,Monitor,Electronics,East,4,7279,29116,5.02,27654.38,7089.03,Premium,Online,UPI
+1910,2025-06-07,Printer,Office Equipment,South,1,1114,1114,6.64,1040.03,222.2,Premium,Offline,Credit Card
+1911,2025-12-17,Headphones,Accessories,South,5,30427,152135,11.42,134761.18,15443.42,Regular,Offline,Credit Card
+1912,2024-06-29,Monitor,Electronics,East,8,2273,18184,19.66,14609.03,4372.64,Premium,Offline,Credit Card
+1913,2025-09-17,Headphones,Accessories,South,8,14533,116264,3.5,112194.76,11819.19,Premium,Offline,Cash
+1914,2024-06-05,Monitor,Electronics,East,9,11578,104202,9.69,94104.83,22456.98,Regular,Offline,UPI
+1915,2025-12-12,Smartphone,Electronics,South,6,24169,145014,10.91,129192.97,20106.24,Premium,Online,Cash
+1916,2024-11-28,Mouse,Accessories,East,5,13792,68960,3.94,66242.98,19445.85,Premium,Online,Credit Card
+1917,2024-12-05,Laptop,Electronics,East,9,28179,253611,6.43,237303.81,54859.54,Regular,Offline,Cash
+1918,2024-03-26,Headphones,Accessories,East,1,2391,2391,6.65,2232.0,386.97,Premium,Offline,Credit Card
+1919,2024-02-16,Keyboard,Accessories,North,5,21123,105615,13.98,90850.02,10961.13,New,Online,Debit Card
+1920,2024-03-23,Tablet,Electronics,South,7,7347,51429,16.36,43015.22,8373.24,Regular,Offline,Cash
+1921,2025-05-30,Monitor,Electronics,West,7,14680,102760,19.06,83173.94,14124.38,New,Offline,Debit Card
+1922,2025-07-25,Laptop,Electronics,East,1,45546,45546,9.31,41305.67,11288.11,New,Online,UPI
+1923,2024-07-31,Smartwatch,Wearables,North,6,36058,216348,5.77,203864.72,46602.26,Regular,Offline,Credit Card
+1924,2024-08-18,Laptop,Electronics,South,1,33685,33685,5.38,31872.75,4802.32,New,Offline,Cash
+1925,2024-07-01,Smartphone,Electronics,North,1,5171,5171,1.02,5118.26,1093.22,Regular,Offline,Cash
+1926,2024-04-19,Camera,Electronics,East,8,8745,69960,16.93,58115.77,8102.95,Regular,Offline,Cash
+1927,2025-05-24,Smartphone,Electronics,South,1,32721,32721,8.39,29975.71,3214.84,New,Offline,Cash
+1928,2025-07-09,Tablet,Electronics,North,4,33642,134568,18.11,110197.74,22481.52,New,Offline,Cash
+1929,2024-02-16,Mouse,Accessories,South,2,36702,73404,2.53,71546.88,17863.17,Regular,Offline,Cash
+1930,2024-02-11,Keyboard,Accessories,South,7,17089,119623,11.56,105794.58,21941.25,New,Offline,UPI
+1931,2024-04-27,Tablet,Electronics,North,7,28761,201327,18.55,163980.84,17595.97,Premium,Offline,Debit Card
+1932,2025-11-27,Headphones,Accessories,North,6,44568,267408,12.25,234650.52,55314.57,Premium,Online,Debit Card
+1933,2024-05-09,Smartwatch,Wearables,East,7,7054,49378,12.88,43018.11,6710.08,New,Offline,UPI
+1934,2024-09-10,Printer,Office Equipment,West,1,24013,24013,12.38,21040.19,2705.32,Premium,Offline,Credit Card
+1935,2024-09-01,Smartwatch,Wearables,West,8,44738,357904,3.45,345556.31,85652.09,Regular,Online,Debit Card
+1936,2024-12-03,Camera,Electronics,East,1,47436,47436,13.07,41236.11,9527.94,Premium,Online,Cash
+1937,2025-06-29,Monitor,Electronics,North,4,37063,148252,6.97,137918.84,38351.7,New,Offline,Cash
+1938,2024-11-02,Mouse,Accessories,West,3,47829,143487,18.2,117372.37,25632.19,Regular,Online,Credit Card
+1939,2025-02-28,Monitor,Electronics,North,2,1689,3378,0.55,3359.42,747.17,New,Offline,Cash
+1940,2025-01-25,Camera,Electronics,West,4,6386,25544,4.0,24522.24,4848.41,Regular,Online,Cash
+1941,2024-10-15,Laptop,Electronics,East,1,48416,48416,12.69,42272.01,5236.34,Premium,Offline,Credit Card
+1942,2024-06-24,Camera,Electronics,East,3,1380,4140,12.4,3626.64,769.04,Regular,Online,UPI
+1943,2025-03-31,Monitor,Electronics,North,9,34818,313362,9.5,283592.61,84088.16,Premium,Offline,Debit Card
+1944,2025-10-23,Printer,Office Equipment,South,2,26795,53590,14.73,45696.19,12524.04,Premium,Online,Debit Card
+1945,2024-04-15,Printer,Office Equipment,East,8,17908,143264,10.13,128751.36,37018.48,New,Offline,Credit Card
+1946,2024-05-05,Mouse,Accessories,North,9,28297,254673,11.66,224978.13,51551.32,Premium,Offline,Cash
+1947,2024-12-30,Tablet,Electronics,North,9,30039,270351,0.1,270080.65,53177.11,Premium,Offline,Debit Card
+1948,2024-02-26,Keyboard,Accessories,North,4,2537,10148,4.86,9654.81,1868.81,Regular,Offline,Debit Card
+1949,2025-05-07,Tablet,Electronics,North,7,24398,170786,7.14,158591.88,37665.22,New,Online,Debit Card
+1950,2025-03-24,Mouse,Accessories,South,10,8334,83340,15.54,70388.96,8578.65,Regular,Online,Credit Card
+1951,2025-06-04,Camera,Electronics,East,8,10024,80192,6.47,75003.58,8363.63,Premium,Offline,Credit Card
+1952,2024-05-11,Smartphone,Electronics,West,4,43624,174496,4.99,165788.65,20501.77,Regular,Offline,Debit Card
+1953,2024-03-04,Monitor,Electronics,South,3,44435,133305,9.4,120774.33,35275.7,New,Online,Cash
+1954,2024-11-22,Tablet,Electronics,West,4,29448,117792,4.13,112927.19,26141.28,New,Online,Credit Card
+1955,2024-10-27,Mouse,Accessories,East,8,13294,106352,17.6,87634.05,24946.45,Regular,Online,UPI
+1956,2025-09-29,Keyboard,Accessories,South,1,34473,34473,9.74,31115.33,8294.51,Premium,Online,Cash
+1957,2025-01-11,Tablet,Electronics,East,7,42925,300475,18.78,244045.8,59309.58,Regular,Offline,Debit Card
+1958,2025-03-12,Monitor,Electronics,West,2,21010,42020,0.52,41801.5,6126.59,Premium,Online,Debit Card
+1959,2024-07-02,Smartphone,Electronics,East,6,40729,244374,18.65,198798.25,33836.43,Regular,Online,Credit Card
+1960,2024-10-01,Smartwatch,Wearables,North,1,4771,4771,10.18,4285.31,913.89,Premium,Offline,Debit Card
+1961,2024-02-06,Laptop,Electronics,East,6,6330,37980,18.69,30881.54,5321.08,Premium,Offline,Cash
+1962,2024-10-25,Smartphone,Electronics,North,5,7694,38470,14.27,32980.33,7741.88,Regular,Offline,Credit Card
+1963,2025-12-26,Monitor,Electronics,South,10,4748,47480,16.84,39484.37,10586.38,Premium,Online,Debit Card
+1964,2024-08-19,Printer,Office Equipment,West,1,21816,21816,17.12,18081.1,4315.84,Premium,Online,UPI
+1965,2024-02-05,Smartwatch,Wearables,West,8,28075,224600,4.35,214829.9,21998.54,Premium,Offline,UPI
+1966,2025-02-02,Mouse,Accessories,South,3,17065,51195,11.32,45399.73,5797.64,Premium,Online,Debit Card
+1967,2025-08-13,Smartwatch,Wearables,North,6,27462,164772,14.95,140138.59,18776.52,Premium,Online,Cash
+1968,2025-05-08,Monitor,Electronics,East,10,23919,239190,4.52,228378.61,37890.07,New,Online,Debit Card
+1969,2025-07-15,Laptop,Electronics,East,10,12665,126650,16.24,106082.04,31067.55,Regular,Online,UPI
+1970,2024-04-15,Camera,Electronics,North,2,990,1980,7.13,1838.83,371.0,Premium,Offline,Debit Card
+1971,2024-08-24,Monitor,Electronics,West,3,9506,28518,12.46,24964.66,5220.86,Premium,Online,Cash
+1972,2024-01-05,Smartwatch,Wearables,South,1,17836,17836,8.63,16296.75,4254.75,Premium,Online,UPI
+1973,2025-12-04,Mouse,Accessories,South,10,5308,53080,16.45,44348.34,8114.65,New,Online,Credit Card
+1974,2025-10-07,Monitor,Electronics,North,7,16540,115780,9.03,105325.07,18686.76,Regular,Offline,Cash
+1975,2025-06-02,Smartphone,Electronics,West,5,41760,208800,7.83,192450.96,20287.53,Premium,Offline,Cash
+1976,2025-05-20,Smartwatch,Wearables,North,9,12957,116613,16.96,96835.44,20110.47,Premium,Offline,Cash
+1977,2025-01-15,Mouse,Accessories,South,1,32960,32960,1.46,32478.78,9467.76,New,Offline,Debit Card
+1978,2025-08-04,Smartphone,Electronics,East,9,12842,115578,8.97,105210.65,15741.4,Regular,Online,Debit Card
+1979,2024-01-12,Mouse,Accessories,South,3,23350,70050,9.97,63066.01,12790.53,New,Offline,Cash
+1980,2024-05-19,Monitor,Electronics,West,4,14931,59724,7.81,55059.56,6870.77,Regular,Online,Credit Card
+1981,2024-04-13,Laptop,Electronics,North,10,49714,497140,0.65,493908.59,62095.5,New,Offline,Credit Card
+1982,2025-01-30,Printer,Office Equipment,North,7,47523,332661,7.19,308742.67,79031.5,Premium,Offline,UPI
+1983,2025-07-02,Camera,Electronics,East,7,36029,252203,12.81,219895.8,46347.05,New,Online,Debit Card
+1984,2025-09-08,Tablet,Electronics,North,3,11062,33186,16.95,27560.97,5401.27,Regular,Offline,Cash
+1985,2024-03-15,Keyboard,Accessories,East,7,37263,260841,12.19,229044.48,66304.87,New,Offline,Debit Card
+1986,2025-01-03,Monitor,Electronics,South,2,27343,54686,14.37,46827.62,9873.05,Regular,Offline,Cash
+1987,2025-07-23,Laptop,Electronics,South,7,28556,199892,12.17,175565.14,42192.41,Premium,Online,UPI
+1988,2025-06-18,Keyboard,Accessories,South,9,30765,276885,4.58,264203.67,38069.73,New,Offline,UPI
+1989,2025-05-18,Keyboard,Accessories,South,7,23580,165060,14.41,141274.85,18223.94,Premium,Online,Cash
+1990,2025-01-19,Smartphone,Electronics,West,3,6791,20373,11.01,18129.93,3581.95,Premium,Offline,UPI
+1991,2024-02-20,Tablet,Electronics,South,6,37026,222156,13.19,192853.62,25617.89,Regular,Online,Debit Card
+1992,2025-08-16,Mouse,Accessories,East,3,5209,15627,15.71,13172.0,2023.32,New,Offline,Debit Card
+1993,2025-10-26,Smartwatch,Wearables,West,4,17418,69672,17.16,57716.28,11352.74,New,Offline,Cash
+1994,2025-02-13,Printer,Office Equipment,South,4,41331,165324,2.46,161257.03,47049.98,New,Offline,UPI
+1995,2024-08-01,Headphones,Accessories,South,5,34094,170470,15.96,143262.99,32729.53,New,Offline,UPI
+1996,2025-12-21,Headphones,Accessories,West,8,34268,274144,10.22,246126.48,46707.4,New,Online,Credit Card
+1997,2025-11-18,Keyboard,Accessories,South,3,47431,142293,5.97,133798.11,28022.49,Regular,Online,Debit Card
+1998,2025-07-15,Tablet,Electronics,North,9,21254,191286,16.37,159972.48,47554.38,Premium,Offline,Cash
+1999,2024-03-29,Tablet,Electronics,East,3,47221,141663,0.51,140940.52,28656.55,Regular,Offline,Cash
+2000,2025-06-05,Laptop,Electronics,West,4,48767,195068,1.06,193000.28,42265.43,Premium,Online,Credit Card
